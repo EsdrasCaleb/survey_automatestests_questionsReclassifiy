@@ -1,0 +1,191 @@
+{
+    "area_formacao_outro": [
+        "Computer Science, Information Systems, and Software-Focused Engineering (Computer Engineering, Software Engineering, Telecommunications, Networking)",
+        "Engineering (other fields)",
+        "Game Design / Digital Game Development",
+        "Graphic Design / Visual Arts / Animation",
+        "Music / Audio Production",
+        "Communication / Digital Media / Multimedia",
+        "Self-taught (no formal education in the field)",
+
+        "Other STEM",
+        "Other Humanities and Social Sciences",
+        "Other Biological Sciences"
+    ],
+    "situacao_outro": [
+        "I work full-time at a game industry company",
+        "I work part-time at a game industry company",
+        "I develop games as a freelancer/contractor regularly",
+        "I develop independent games in my spare time (hobbyist/unpaid or occasional revenue)",
+        "I develop games occasionally, in one-off or collaborative projects (e.g., Game Jams)",
+
+        "I worked full-time at a game industry company",
+        "I develop games as part of academic or educational activities",
+        "I do not develop games, only follow industry news and consumption trends",
+        "I work full-time at a adjacent game industry company"
+    ],
+    "tipos_jogos_outro": [
+        "Action Games",
+        "Strategy Games",
+        "Role-Playing Games",
+        "Sports Games",
+        "Vehicle Simulations",
+        "Construction and Management Simulations",
+        "Adventure Games",
+        "Idle and Puzzle Games",
+        "Online Gaming"
+
+        "Casual, Cozy, and Social Games",
+        "Educational and Serious Games",
+        "Unspecified"
+    ],
+    "plataformas_desenvolvimento_outro": [
+        "PC (Windows, Linux, Mac)",
+        "Web (browsers)",
+        "Mobile devices (Android, iOS)",
+        "Sony Consoles / PlayStation",
+        "Microsoft Consoles / Xbox",
+        "Nintendo Consoles",
+        "Virtual / Augmented Reality (XR)"
+    ],
+    "ferramentas_desenvolvimento_outro": [
+        "Unity",
+        "Unreal",
+        "Godot",
+        "Game Maker",
+        "RPG Maker",
+        "Low-level framework (LOVE, MonoGame, Heaps, etc.)",
+        "Custom Engine (Proprietary, made by me)",
+        "Custom Engine (Proprietary, made by the company)",
+        "I do not use game engines (programming with basic libs like SDL)",
+
+        "Other Game Engines (Construct, GDevelop, Defold, Ren'Py, Cryengine, etc.)",
+        "Unspecified"
+    ],
+    "dificuldades_testes_outro": [
+        "Difficulty understanding how testing tools work.",
+        "Complication integrating tests into the project workflow.",
+        "The feeling that manual tests are more practical or efficient.",
+        "Difficult to develop and keep the tests up-to-date.",
+        "Perception that automated tests do not find the \"bugs that matter\".",
+        "I have never tried using automated tests.",
+
+        "Lack of time, strict deadlines, or unfavorable cost-benefit ratio.",
+        "Difficulty testing subjective elements (\"game feel\", player experience) or non-deterministic gameplay.",
+        "Technical limitations of the game engine, architecture, or visual scripting (e.g., Unity, Blueprints).",
+        "Team limitations (difficulty training team members or getting them on board).",
+        "None"
+    ],
+    "ferramentas_teste_outro": [
+        "Unity Test Framework",
+        "Unreal Functional Testing Framework / Gauntlet",
+        "A Godot Test Framework Plugin (e.g., GUT or gdUnit)",
+        "I have never used automated testing tools"
+
+        "Custom, In-house, or Proprietary Testing Tools (including custom bots)",
+        "General Software Testing Frameworks (NUnit, Jest, Pytest, Rust/C++ units, Playwright, etc.)",
+        "CI/CD and DevOps Automation Tools (GitHub Actions, TeamCity, SonarQube, etc.)"
+    ],
+    "conteudo_testado_outro": [
+        "Isolated components — I verify if specific parts of the code work correctly independently (Unit Testing)",
+        "Basic performance — I evaluate load times, frame rate (FPS), or resource consumption",
+        "Specific game scenarios — I simulate gameplay situations to check if the game responds as expected",
+        "Smoke tests — I only check if the game starts and runs without critical crashes",
+        "Simulation — I simulate a player's behavior through an agent",
+        "I do not use automated tests"
+
+        "Integration and End-to-End (E2E) Testing — I test how multiple components, sub-systems, or features work together.",
+        "Backend, Server, and External Services — I test APIs, databases, server logic, or network services outside the game client."
+    ],
+    "tipo_falha_outro": [
+        "Stuck — player gets stuck without being able to exit (Softlock)",
+        "Crash — game closes, freezes, or hangs",
+        "Visual glitches or strange audio noises",
+        "Performance drops or framerate instability",
+        "Collision errors and physics",
+        "Game balance outside the planned level (too easy, too hard, or inconsistent)"
+
+        "Networking, Sync, Backend, and Infrastructure Issues (e.g., replication, server downtime, security)",
+        "Core Design Flaws, Boring Gameplay Loops, or Lack of Player Engagement",
+        "Business, Monetization, and Financial Risks",
+        "Not Applicable (e.g., out-of-scope roles, meta-responses, personal motivation)"
+    ],
+    "etapa_testes_outro":[
+      "Before implementing the feature — I follow a test-driven approach (Test-Driven Development)",
+      "During or right after implementing the feature — I write tests along with the code",
+      "After creating a functional prototype — I test when I already have something playable or testable",
+      "Only at the end of the project, during the review phase",
+      "I do not use automated tests",
+      "When there is time or opportunity — without a defined step in the process",
+
+        "It depends on the project/system, or I use a hybrid approach (combination of phases)",
+        "I do not know, or I am not the person responsible for implementing tests",
+        "Invalid response, critique of the survey, or out of scope"
+    ],
+    "avaliacao_artefatos_outro": [
+        "I use previously defined criteria (e.g., style, clarity, audience suitability)",
+        "I rely on informal or subjective evaluation, without a structured evaluation process",
+        "I perform formal tests with users or specific tools",
+        "The evaluation is done mainly by other people on the team",
+
+        "Informal external feedback (e.g., sharing with friends, online communities like Reddit)",
+        "Not yet evaluating"
+    ],
+    "design_validacao_outro": [
+        "Through simplified playable prototypes (digital or analog)",
+        "With physical or real-world simulations (e.g., with people, objects, role-playing)",
+        "Using spreadsheets to simulate systems or balancing",
+        "Using specific tools (e.g., Machinations)",
+        "I mentally simulate scenarios and interactions",
+        "I usually implement directly without prior design validation."
+
+        "Writing documents, mind maps, diagrams, or narrative explorations",
+        "Discussions, meetings, or feedback from team members and clients",
+        "Unspecified"
+    ],
+    "areas_uso_ia_outro": [
+        "To generate creative ideas (e.g., characters, mechanics, narratives, dialogues)",
+        "To create visual or audio content (e.g., concept art, voices, soundtracks, effects)",
+        "To assist in implementation (e.g., writing or reviewing code, suggesting technical solutions)",
+        "To plan or structure the game (e.g., documentation, system architecture, balancing)",
+        "To create or suggest automated tests (e.g., generating test cases, validation scripts)",
+        "To review or validate game features (e.g., finding bugs, checking logic)",
+        "I haven't used AI yet, but I am curious or interested",
+        "I do not use AI in my game projects and do not intend to.",
+
+        "Research, Learning, and Understanding Documentation (e.g., advanced search, explaining code, math)",
+        "Prototyping, Tooling, and Placeholders (e.g., quick scripts, temporary programmer art)",
+        "Text Refinement and Localization (e.g., spellchecking, translation, thesaurus)",
+        "Tried but found unhelpful"
+
+    ],
+    "percepcao_uso_ia_outro": [
+        "Unauthorized use of data and ethical issues (copyright, authorship, credits, plagiarism)",
+        "Privacy concerns: my inputs might be reused without control",
+        "Fear that professionals in the field will be replaced by AI",
+        "Lack of transparency and difficulty verifying the originality or reliability of what AI produces",
+        "Ethics in AI use (e.g., authorship, credits, plagiarism)",
+        "I have no significant concerns at the moment",
+        "Low quality output, technical debt, bugs, and increased review time (e.g., 'AI Slop')",
+        "Loss of human skills, cognitive debt, and over-reliance on AI",
+        "Loss of artistic intent, lack of originality, and poor creative control",
+        "Environmental and ecological impacts (e.g., power consumption)",
+        "Security vulnerabilities and safety risks of AI agents",
+        "Negative public perception and potential reputation damage",
+        "Do not want answer"
+    ],
+    "consideracoes_finais": [
+        "1. Preference for manual testing & human playtesting (self, friends, team, or community)",
+        "2. Scope & resource constraints (solo developers, small teams, short cycles, or game jams)",
+        "3. Time, budget, or delivery constraints (rushed timelines leave no room for testing)",
+        "4. High cost-of-maintenance & fragility of automated tests (frequent code/UI/gameplay changes)",
+        "5. Games as a subjective/artistic medium (untestable 'feel', focus on fun, TDD doesn't fit gameplay)",
+        "6. Technical difficulty of testing in standard engines (Unity/Unreal limitations, mocking complexities)",
+        "7. Successful, active use, or practical implementation of automated testing/CI-CD pipelines",
+        "8. Curiosity, optimism, or interest in adopting automated testing (including AI agent testing)",
+        "9. Opinions on Generative AI (Ethical concerns, 'slop', anti-AI policies, or positive productivity tool)",
+        "10. Critique of software engineering dogmas/buzzwords (SOLID, Clean Code, TDD as mindless overhead)",
+        "11. Meta-feedback on the survey, personal backgrounds, or industry rants",
+        "Placeholder responses"
+    ]
+}

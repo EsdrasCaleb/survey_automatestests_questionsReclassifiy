@@ -1,0 +1,239 @@
+{
+    "area_formacao_outro": {
+      "computacao": "Computer Science, Information Systems, and Software-Focused Engineering (Computer Engineering, Software Engineering, Telecommunications, Networking)",
+      "engenharia": "Engineering (other fields)",
+      "jogos": "Game Design / Digital Game Development",
+      "design": "Graphic Design / Visual Arts / Animation",
+      "musica": "Music / Audio Production",
+      "comunicacao": "Communication / Digital Media / Multimedia",
+      "autodidata": "Self-taught (no formal education in the field)",
+      "outro_stem":"Other STEM",
+      "outro_humanas":"Other Humanities and Social Sciences",
+      "outro_biologia_saude":"Other Biological Sciences"
+    },
+
+    "situacao_outro":{
+      "atuacao_industria_integral": "I work full-time at a game industry company",
+      "atuacao_industria_parcial": "I work part-time at a game industry company",
+      "atuacao_freelancer": "I develop games as a freelancer/contractor regularly",
+      "atuacao_indie_horas_vagas": "I develop independent games in my spare time (hobbyist/unpaid or occasional revenue)",
+      "atuacao_eventual": "I develop games occasionally, in one-off or collaborative projects (e.g., Game Jams)",
+      "atuacao_indie_fulltime": "I work full-time at a game industry independently",
+      "ja_atuou_na_industria":"I worked full-time at a game industry company",
+      "atuacao_industria_educativa":"I develop games as part of academic or educational activities",
+      "just_media":"I do not develop games, only follow industry news and consumption trends",
+      "atuacao_industria_adjacente" :"I work full-time at a adjacent game industry company"
+    },
+    "situacao_equipe_outro": {
+      "individual": "Work alone (individual projects)",
+      "pequena": "In a Small Team (2 to 15 people)",
+      "media": "In a Medium Team (15 to 60 people)",
+      "grande": "In a Large Team (60 to 120 people)",
+      "muito_grande": "In a Very Large Team (120+ people)",
+      "varia": "It varies quite a bit from project to project",
+      "nao_participa": "I work independently and do not have direct contact with the project team"
+    },
+    "funcoes_outro":  {
+      "programador": "Programmer",
+      "artista": "Visual Artist",
+      "design_ux": "UI/UX Designer",
+      "roteiro_narrativa": "Scriptwriting/Narrative",
+      "tec_lead": "Tech Lead",
+      "marketing": "Marketing/Publishing",
+      "game_designer": "Game Designer",
+      "level_designer": "Level Designer",
+      "qa": "Tester (QA)",
+      "artista_som": "Sound Artist / Composer",
+      "animacao": "Animator",
+      "produtor": "Producer"
+    },
+
+    "tipos_jogos_outro": {
+      "action": "Action Games",
+      "strategy": "Strategy Games",
+      "rpg": "Role-Playing Games",
+      "sports": "Sports Games",
+      "vehicle_sim": "Vehicle Simulations",
+      "construction_management": "Construction and Management Simulations",
+      "adventure": "Adventure Games",
+      "artificial_life_puzzle": "Idle and Puzzle Games",
+      "online": "Online Gaming",
+      "cozy_games":"Casual, Cozy, and Social Games",
+      "educational_games":"Educational and Serious Games",
+      "unspecified":"Unspecified"
+    },
+
+    "plataformas_desenvolvimento_outro":{
+      "pc": "PC (Windows, Linux, Mac)",
+      "web": "Web (browsers)",
+      "mobile": "Mobile devices (Android, iOS)",
+      "console_psx": "Sony Consoles / PlayStation",
+      "console_xbox": "Microsoft Consoles / Xbox",
+      "console_nintendo": "Nintendo Consoles",
+      "xr": "Virtual / Augmented Reality (XR)",
+      "console_retro":"Retro Consoles",
+      "analog_games":"Board/Card Games"
+    },
+
+    "ferramentas_desenvolvimento_outro": {
+        "unity": "Unity",
+        "unreal": "Unreal",
+        "godot": "Godot",
+        "gamemaker": "Game Maker",
+        "rpgmaker": "RPG Maker",
+        "framework_baixo_nivel": "Low-level framework (LOVE, MonoGame, Heaps, etc.)",
+        "propria_pessoal": "Custom Engine (Proprietary, made by me)",
+        "propria_corporativa": "Custom Engine (Proprietary, made by the company)",
+        "nada": "I do not use game engines (programming with basic libs like SDL)",
+        "outras_engines": "Other Game Engines (Construct, GDevelop, Defold, Ren'Py, Cryengine, etc.)",
+        "outras_nao_especificadas": "Unspecified"
+      },
+      "dificuldades_manutencao_outro": {
+        "codigo_dificil": "Code becomes difficult to understand over time",
+        "mudancas_quebram": "Making changes causes unexpected errors in other parts of the game (regressions)",
+        "comunicacao_dificil": "Communication difficulties among team members",
+        "prazo_curto": "Lack of time or tight deadlines",
+        "mudancas_escopo": "Changes in scope or features in the middle of the project",
+        "sem_boas_praticas": "Absence of good software engineering practices",
+        "sem_dificuldades": "I do not face significant difficulties in this aspect",
+        "limitacoes_tecnologia": "Technology, engine, framework, and tool limitations",
+        "foco_motivacao": "Maintaining focus and motivation",
+        "technology_evolution_and_dependency_updates":"Technology evolution and dependency updates"
+      },
+      "testes_jogo_outro": {
+        "exploratorio": "Exploratory testing — I play freely and observe if there are glitches or strange behaviors",
+        "roteiro": "Scripted testing — I follow a list of steps or a checklist to verify specific features",
+        "automatizado": "Automated testing — I use tools or scripts to test parts of the game without manual intervention",
+        "agentes": "Simulated agents — I use bots or scripts that mimic player behavior to test the game",
+        "performance": "Performance Tests"
+      },
+      "dificuldades_testes_outro": {
+        "entendimento_frameworks": "Difficulty understanding how testing tools work.",
+        "integracao_dificil": "Complication integrating tests into the project workflow.",
+        "preferencia_humanos": "The feeling that manual tests are more practical or efficient.",
+        "criacao_dificil": "Difficult to develop and keep the tests up-to-date.",
+        "nao_encontram_erros_reais": "Perception that automated tests do not find the \"bugs that matter\".",
+        "nunca_usei": "I have never tried using automated tests.",
+        "falta_tempo_prazo": "Lack of time, strict deadlines, or unfavorable cost-benefit ratio.",
+        "elementos_subjetivos": "Difficulty testing subjective elements (\"game feel\", player experience) or non-deterministic gameplay.",
+        "limitacoes_tecnicas_engine": "Technical limitations of the game engine, architecture, or visual scripting (e.g., Unity, Blueprints).",
+        "limitacoes_equipe": "Team limitations (difficulty training team members or getting them on board).",
+        "nenhuma": "None"
+      },
+      "ferramentas_teste_outro": {
+        "unity": "Unity Test Framework",
+        "unreal": "Unreal Functional Testing Framework / Gauntlet",
+        "godot_tests": "A Godot Test Framework Plugin (e.g., GUT or gdUnit)",
+        "nenhuma": "I have never used automated testing tools",
+        "ferramentas_proprias_bots": "Custom, In-house, or Proprietary Testing Tools (including custom bots)",
+        "frameworks_gerais_software": "General Software Testing Frameworks (NUnit, Jest, Pytest, Rust/C++ units, Playwright, etc.)",
+        "ci_cd_devops": "CI/CD and DevOps Automation Tools (GitHub Actions, TeamCity, SonarQube, etc.)"
+      },
+
+      "conteudo_testado_outro": {
+        "componentes": "Isolated components — I verify if specific parts of the code work correctly independently (Unit Testing)",
+        "performance": "Basic performance — I evaluate load times, frame rate (FPS), or resource consumption",
+        "cenarios": "Specific game scenarios — I simulate gameplay situations to check if the game responds as expected",
+        "teste_fumaca": "Smoke tests — I only check if the game starts and runs without critical crashes",
+        "simulacao": "Simulation — I simulate a player's behavior through an agent",
+        "nao_uso": "I do not use automated tests",
+        "integracao_e2e": "Integration and End-to-End (E2E) Testing — I test how multiple components, sub-systems, or features work together.",
+        "backend_servicos_externos": "Backend, Server, and External Services — I test APIs, databases, server logic, or network services outside the game client."
+      },
+
+      "tipo_falha_outro": {
+        "stuck": "Stuck — player gets stuck without being able to exit (Softlock)",
+        "crash": "Crash — game closes, freezes, or hangs",
+        "visual_multimidia": "Visual glitches or strange audio noises",
+        "desempenho_estabilidade": "Performance drops or framerate instability",
+        "corretude_fisica": "Collision errors and physics",
+        "balanceamento": "Game balance outside the planned level (too easy, too hard, or inconsistent)",
+        "infraestrutura_rede_sync": "Networking, Sync, Backend, and Infrastructure Issues (e.g., replication, server downtime, security)",
+        "falhas_design_gameplay_chato": "Core Design Flaws, Boring Gameplay Loops, or Lack of Player Engagement",
+        "negocios_monetizacao_financeiro": "Business, Monetization, and Financial Risks",
+        "nao_se_aplica": "Not Applicable (e.g., out-of-scope roles, meta-responses, personal motivation)"
+      },
+
+      "etapa_testes_outro": {
+        "antes_funcionalidade": "Before implementing the feature — I follow a test-driven approach (Test-Driven Development)",
+        "durante_funcionalidade": "During or right after implementing the feature — I write tests along with the code",
+        "pos_prototipo": "After creating a functional prototype — I test when I already have something playable or testable",
+        "final": "Only at the end of the project, during the review phase",
+        "nunca": "I do not use automated tests",
+        "quando_possivel": "When there is time or opportunity — without a defined step in the process",
+        "depende_sistema_hibrido": "It depends on the project/system, or I use a hybrid approach (combination of phases)",
+        "nao_sei_nao_responsavel": "I do not know, or I am not the person responsible for implementing tests",
+        "critica_pesquisa_fora_escopo": "Invalid response, critique of the survey, or out of scope"
+      },
+      "requisito_testes_outro": {
+        "atualizacao": "To accept contributions from collaborators (e.g., pull requests)",
+        "proxima_fase": "To allow the project to advance to the next phase (alpha, beta)",
+        "nova_funcionalidade": "To start the development of a new feature",
+        "nunca": "They are not a mandatory requirement in projects"
+      },
+      "avaliacao_artefatos_outro": {
+        "criterios_definidos": "I use previously defined criteria (e.g., style, clarity, audience suitability)",
+        "avaliacao_subjetiva": "I rely on informal or subjective evaluation, without a structured evaluation process",
+        "testes_formais": "I perform formal tests with users or specific tools",
+        "avaliacao_por_outros": "The evaluation is done mainly by other people on the team",
+        "feedback_externo_informal": "Informal external feedback (e.g., sharing with friends, online communities like Reddit)",
+        "ainda_nao_avalia": "Not yet evaluating"
+      },
+
+      "design_validacao_outro": {
+        "prototipo_simplificado": "Through simplified playable prototypes (digital or analog)",
+        "prototipo_real": "With physical or real-world simulations (e.g., with people, objects, role-playing)",
+        "excel": "Using spreadsheets to simulate systems or balancing",
+        "machinations": "Using specific tools (e.g., Machinations)",
+        "mental": "I mentally simulate scenarios and interactions",
+        "nenhum": "I usually implement directly without prior design validation.",
+        "documentos_mapas_diagramas": "Writing documents, mind maps, diagrams, or narrative explorations",
+        "reunioes_feedback_equipe": "Discussions, meetings, or feedback from team members and clients",
+        "nao_especificado": "Unspecified"
+      },
+
+      "areas_uso_ia_outro": {
+        "ideias_criativas": "To generate creative ideas (e.g., characters, mechanics, narratives, dialogues)",
+        "conteudo_visual_sonoro": "To create visual or audio content (e.g., concept art, voices, soundtracks, effects)",
+        "implementacao": "To assist in implementation (e.g., writing or reviewing code, suggesting technical solutions)",
+        "planejamento": "To plan or structure the game (e.g., documentation, system architecture, balancing)",
+        "testes": "To create or suggest automated tests (e.g., generating test cases, validation scripts)",
+        "validacao": "To review or validate game features (e.g., finding bugs, checking logic)",
+        "ainda_nao_usei": "I haven't used AI yet, but I am curious or interested",
+        "nao_usarei": "I do not use AI in my game projects and do not intend to.",
+        "pesquisa_documentacao_aprendizado": "Research, Learning, and Understanding Documentation (e.g., advanced search, explaining code, math)",
+        "prototipagem_placeholders_ferramentas": "Prototyping, Tooling, and Placeholders (e.g., quick scripts, temporary programmer art)",
+        "refinamento_texto_localizacao": "Text Refinement and Localization (e.g., spellchecking, translation, thesaurus)",
+        "tentou_mas_sem_sucesso": "Tried but found unhelpful"
+      },
+
+    "percepcao_uso_ia_outro": {
+      "etica_dados": "Unauthorized use of data and ethical issues (copyright, authorship, credits, plagiarism)",
+      "privacidade": "Privacy concerns: my inputs might be reused without control",
+      "substituicao": "Fear that professionals in the field will be replaced by AI",
+      "confiabilidade_transparencia": "Lack of transparency and difficulty verifying the originality or reliability of what AI produces",
+      "etica": "Ethics in AI use (e.g., authorship, credits, plagiarism)",
+      "sem_preocupacoes": "I have no significant concerns at the moment",
+      "sem_qualidade":"Low quality output, technical debt, bugs, and increased review time (e.g., 'AI Slop')",
+      "perda_de_habilidade": "Loss of human skills, cognitive debt, and over-reliance on AI",
+      "perda_visao_artistica": "Loss of artistic intent, lack of originality, and poor creative control",
+      "impacto_ambiental": "Environmental and ecological impacts (e.g., power consumption)",
+      "seguranca_vulnerabilidade": "Security vulnerabilities and safety risks of AI agents",
+      "reputacao_opiniao_publica": "Negative public perception and potential reputation damage",
+      "sem_resposta": "Do not want answer"
+    },
+    "consideracoes_finais": {
+        "prefer_manal":"1. Preference for manual testing & human playtesting (self, friends, team, or community)",
+        "scope":"2. Scope & resource constraints (solo developers, small teams, short cycles, or game jams)",
+        "no_time":"3. Time, budget, or delivery constraints (rushed timelines leave no room for testing)",
+        "hight_cost":"4. High cost-of-maintenance & fragility of automated tests (frequent code/UI/gameplay changes)",
+        "autotests_dont_work":"5. Games as a subjective/artistic medium (untestable 'feel', focus on fun, TDD doesn't fit gameplay)",
+        "standard_too_hard":"6. Technical difficulty of testing in standard engines (Unity/Unreal limitations, mocking complexities)",
+        "i_test_and_use_cicd":"7. Successful, active use, or practical implementation of automated testing/CI-CD pipelines",
+        "curius_about_automatd_testeing_and_ia":"8. Curiosity, optimism, or interest in adopting automated testing (including AI agent testing)",
+        "opinions_on_ai":"9. Opinions on Generative AI (Ethical concerns, 'slop', anti-AI policies, or positive productivity tool)",
+        "critic_on_software_engeniring":"10. Critique of software engineering dogmas/buzzwords (SOLID, Clean Code, TDD as mindless overhead)",
+        "feedback_on_survey":"11. Meta-feedback on the survey, personal backgrounds, or industry rants",
+        "nothing":"Placeholder responses"
+    }
+}

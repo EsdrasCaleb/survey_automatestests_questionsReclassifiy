@@ -1,0 +1,1687 @@
+{
+    "area_formacao_outro": {
+        "Bachelor of Information Studies": [
+            "Other STEM"
+        ],
+        "Law": [
+            "Other Humanities and Social Sciences"
+        ],
+        "Drug design / Biochimie": [
+            "Other Biological Sciences"
+        ],
+        "Philosophy": [
+            "Other Humanities and Social Sciences"
+        ],
+        "Bachelor of Commerce": [
+            "Other Humanities and Social Sciences"
+        ],
+        "Biology": [
+            "Other Biological Sciences"
+        ],
+        "architecture": [
+            "Other STEM"
+        ],
+        "Classics": [
+            "Other Humanities and Social Sciences"
+        ],
+        "Physics and Astronomy": [
+            "Other STEM"
+        ],
+        "Economics": [
+            "Other Humanities and Social Sciences"
+        ],
+        "Information technology": [
+            "Computer Science, Information Systems, and Software-Focused Engineering (Computer Engineering, Software Engineering, Telecommunications, Networking)"
+        ],
+        "Anthropology": [
+            "Other Humanities and Social Sciences"
+        ],
+        "Applied Linguistics": [
+            "Other Humanities and Social Sciences"
+        ],
+        "Cybersecurity": [
+            "Computer Science, Information Systems, and Software-Focused Engineering (Computer Engineering, Software Engineering, Telecommunications, Networking)"
+        ],
+        "English Literature": [
+            "Other Humanities and Social Sciences"
+        ],
+        "City planning/economics": [
+            "Other Humanities and Social Sciences"
+        ],
+        "Physics": [
+            "Other STEM"
+        ],
+        "Sem diploma.": [
+            "Self-taught (no formal education in the field)"
+        ],
+        "Nursing": [
+            "Other Biological Sciences"
+        ],
+        "Education": [
+            "Other Humanities and Social Sciences"
+        ],
+        "Tecnologo em Processos Gerenciais": [
+            "Other Humanities and Social Sciences"
+        ],
+        "Adminitração": [
+            "Other Humanities and Social Sciences"
+        ],
+        "Marketing": [
+            "Other Humanities and Social Sciences"
+        ],
+        "Educação": [
+            "Other Humanities and Social Sciences"
+        ]
+    },
+    "situacao_outro": {
+        "Maior parte do tempo passei trabalhando na minha propria empresa de jogos, produzindo projetos proprios e out-sourcing": [
+            "I work full-time at a game industry independently"
+        ],
+        "Trabalhei em tempo integral hoje atuo na área de segurança.": [
+            "I worked full-time at a game industry company"
+        ],
+        "full-time indie": [
+            "I work full-time at a game industry independently"
+        ],
+        "Education Software using Unity.": [
+            "I develop games as part of academic or educational activities"
+        ],
+        "Atualmente vendo card games": [
+            "I worked full-time at a game industry company"
+        ],
+        "academia, ensino": [
+            "I develop games as part of academic or educational activities"
+        ],
+        "I develop independent games full time at my own studio.": [
+            "I work full-time at a game industry independently"
+        ],
+        "I'm currently emplyed in other industry due to better pay and development practices": [
+            "I worked full-time at a game industry company"
+        ],
+        "Só acompanho notícias de mercado e consumo.": [
+            "I do not develop games, only follow industry news and consumption trends"
+        ],
+        "I work full-time at an AI company in a game development team": [
+            "I work full-time at a game industry company"
+        ],
+        "Solo developer, working full time": [
+            "I work full-time at a game industry independently"
+        ],
+        "I work games adjacent, simulation industry": [
+            "I work full-time at a adjacent game industry company"
+        ],
+        "I worked 5.7y on full time contract, 7 months as freelancer and currently on a shorter break before i find me full or short term contract. I responded based on my XP feel free to disregard if you look for answers by fully employed people :)": [
+            "I worked full-time at a game industry company"
+        ],
+        "I am a professor, a scholar of games, making my own games and also leading students in the creation of games, sometimes entrepreneurially, sometimes with community partners": [
+            "I develop games as part of academic or educational activities"
+        ],
+        "Na propria desenvolvedora q estou tentando formar": [
+            "I develop independent games in my spare time (hobbyist/unpaid or occasional revenue)"
+        ],
+        "I'm unemployed after working full-time at companies. Now, I do solo work more in the last 2 categories.": [
+            "I worked full-time at a game industry company"
+        ],
+        "Ceo de empresa fornecedora de dublagem, música e sound design pra jogos indies": [
+            "I work full-time at a adjacent game industry company"
+        ],
+        "Trabalho em tempo integral em uma empresa da indústria de jogos digitais + Trabalho em tempo parcial em associação de desenvolvedores de jogos": [
+            "I work full-time at a game industry company"
+        ]
+    },
+    "tipos_jogos_outro": {
+        "Rogue-Like": [
+            "Role-Playing Games",
+            "Strategy Games"
+        ],
+        "either artistic, training or educational VR": [
+            "Educational and Serious Games",
+            "Unspecified"
+        ],
+        "Educational Software": [
+            "Educational and Serious Games"
+        ],
+        "Game as Social App": [
+            "Casual, Cozy, and Social Games",
+            "Online Gaming"
+        ],
+        "Narrative Walking Sims": [
+            "Adventure Games"
+        ],
+        "I’m making a game as a personal art form": [
+            "Unspecified"
+        ],
+        "Arcade or Edutainment games": [
+            "Action Games",
+            "Educational and Serious Games"
+        ],
+        "Card/Autobattler": [
+            "Strategy Games"
+        ],
+        "SLG and Sandbox Game": [
+            "Strategy Games",
+            "Construction and Management Simulations"
+        ],
+        "Roguelite, survivor, horror": [
+            "Action Games",
+            "Role-Playing Games",
+            "Adventure Games"
+        ],
+        "puzzle": [
+            "Idle and Puzzle Games"
+        ],
+        "Horror": [
+            "Adventure Games"
+        ],
+        "Social, mobile, vr, crypto": [
+            "Casual, Cozy, and Social Games",
+            "Online Gaming"
+        ],
+        "simuladores, jogos em VR": [
+            "Construction and Management Simulations",
+            "Vehicle Simulations"
+        ],
+        "Mobile stuff, idk": [
+            "Casual, Cozy, and Social Games"
+        ],
+        "Detective Games": [
+            "Adventure Games",
+            "Idle and Puzzle Games"
+        ],
+        "Unsure at this moment.": [
+            "Unspecified"
+        ],
+        "Farming Sim": [
+            "Construction and Management Simulations",
+            "Casual, Cozy, and Social Games"
+        ],
+        "Sandbox/Procedural generation games": [
+            "Construction and Management Simulations"
+        ],
+        "Incremental casual games, mostly idlers": [
+            "Idle and Puzzle Games",
+            "Casual, Cozy, and Social Games"
+        ],
+        "Games built for Vrchat": [
+            "Casual, Cozy, and Social Games",
+            "Online Gaming"
+        ],
+        "Puzzles": [
+            "Idle and Puzzle Games"
+        ],
+        "Jogos Educativos": [
+            "Educational and Serious Games"
+        ],
+        "Educational games": [
+            "Educational and Serious Games"
+        ],
+        "Narrative": [
+            "Adventure Games"
+        ],
+        "Flight simulation": [
+            "Vehicle Simulations"
+        ],
+        "Immersive Sim": [
+            "Action Games",
+            "Role-Playing Games",
+            "Adventure Games"
+        ],
+        "Mobile Puzzle/Arcade": [
+            "Idle and Puzzle Games",
+            "Action Games"
+        ],
+        "Los juegos que me envien los desarrolladores": [
+            "Unspecified"
+        ],
+        "Social Casino": [
+            "Casual, Cozy, and Social Games",
+            "Online Gaming"
+        ],
+        "I make stuff that is all over the place, could not link one genre to it.": [
+            "Unspecified"
+        ],
+        "Factory": [
+            "Construction and Management Simulations"
+        ],
+        "Jogos do tipo fazendinha, ou similares a overcooked": [
+            "Construction and Management Simulations",
+            "Action Games",
+            "Casual, Cozy, and Social Games"
+        ],
+        "Arcades": [
+            "Action Games"
+        ],
+        "Visual Novels": [
+            "Adventure Games"
+        ],
+        "Interactive Narrative Games": [
+            "Adventure Games"
+        ],
+        "Cooking Game": [
+            "Construction and Management Simulations",
+            "Casual, Cozy, and Social Games"
+        ],
+        "Educationnal": [
+            "Educational and Serious Games"
+        ],
+        "Wholesome": [
+            "Casual, Cozy, and Social Games"
+        ],
+        "Visual Novels, Interactive Fiction": [
+            "Adventure Games"
+        ],
+        "Party Games": [
+            "Casual, Cozy, and Social Games",
+            "Online Gaming"
+        ],
+        "N/A - a wide variety": [
+            "Unspecified"
+        ],
+        "Mystery parties, escape rooms": [
+            "Adventure Games",
+            "Idle and Puzzle Games"
+        ],
+        "Card Games": [
+            "Strategy Games"
+        ],
+        "Casuais": [
+            "Casual, Cozy, and Social Games"
+        ],
+        "cozy": [
+            "Casual, Cozy, and Social Games"
+        ],
+        "Deckbuilding": [
+            "Strategy Games"
+        ],
+        "Cassino / Video-bingo": [
+            "Casual, Cozy, and Social Games"
+        ],
+        "game libraries": [
+            "Unspecified"
+        ],
+        "Coop/Multiplayer": [
+            "Online Gaming"
+        ]
+    },
+    "plataformas_desenvolvimento_outro": {
+        "Sega Genesis": [
+            "Retro Consoles"
+        ],
+        "Sega, Commandore, Amiga": [
+            "Retro Consoles"
+        ],
+        "Consoles (NDA)": [
+            "Sony Consoles / PlayStation",
+            "Microsoft Consoles / Xbox",
+            "Nintendo Consoles"
+        ],
+        "Depende del desarrollador": [
+            "PC (Windows, Linux, Mac)"
+        ],
+        "Sistemas embebidos": [
+            "Mobile devices (Android, iOS)"
+        ],
+        "RPGs de mesa (livros físicos); Print-and-Play": [
+            "Board/Card Games"
+        ],
+        "Steam Deck": [
+            "PC (Windows, Linux, Mac)"
+        ],
+        "Retro platforms": [
+            "Retro Consoles"
+        ],
+        "Amiga, Atari, C64": [
+            "Retro Consoles"
+        ]
+    },
+    "ferramentas_desenvolvimento_outro": {
+        "Dart/Flutter+Flame": [
+            "Low-level framework (LOVE, MonoGame, Heaps, etc.)"
+        ],
+        "GDevelop": [
+            "Other Game Engines (Construct, GDevelop, Defold, Ren'Py, Cryengine, etc.)"
+        ],
+        "bevy": [
+            "Low-level framework (LOVE, MonoGame, Heaps, etc.)"
+        ],
+        "Clickteam Fusion": [
+            "Other Game Engines (Construct, GDevelop, Defold, Ren'Py, Cryengine, etc.)"
+        ],
+        "Swift, HaXe": [
+            "Low-level framework (LOVE, MonoGame, Heaps, etc.)"
+        ],
+        "Bare metal, no OS": [
+            "I do not use game engines (programming with basic libs like SDL)"
+        ],
+        "Unigine": [
+            "Other Game Engines (Construct, GDevelop, Defold, Ren'Py, Cryengine, etc.)"
+        ],
+        "Over the years I can count 14 in-house engines or custom technology unique to the games. Engines like the Slipspace Engine, The Sims Engine, Brightlight, Frostbite, Glycerine, and more.": [
+            "Custom Engine (Proprietary, made by the company)"
+        ],
+        "Construct 3": [
+            "Other Game Engines (Construct, GDevelop, Defold, Ren'Py, Cryengine, etc.)"
+        ],
+        "Bevy": [
+            "Low-level framework (LOVE, MonoGame, Heaps, etc.)"
+        ],
+        "Clickteam Fusion, Scratch by MIT, though Clickteam Fusion has been my main for a while before i learned Scratch. Maybe I should learn something else?": [
+            "Other Game Engines (Construct, GDevelop, Defold, Ren'Py, Cryengine, etc.)"
+        ],
+        "El que usen los desarrolladores": [
+            "Unspecified"
+        ],
+        "Ren'py": [
+            "Other Game Engines (Construct, GDevelop, Defold, Ren'Py, Cryengine, etc.)"
+        ],
+        "Cryengine": [
+            "Other Game Engines (Construct, GDevelop, Defold, Ren'Py, Cryengine, etc.)"
+        ],
+        "Defold": [
+            "Other Game Engines (Construct, GDevelop, Defold, Ren'Py, Cryengine, etc.)"
+        ],
+        "Turbowarp client, C# plano para servidores": [
+            "Other Game Engines (Construct, GDevelop, Defold, Ren'Py, Cryengine, etc.)",
+            "I do not use game engines (programming with basic libs like SDL)"
+        ],
+        ".net / XNA": [
+            "Low-level framework (LOVE, MonoGame, Heaps, etc.)"
+        ],
+        "Ren'Py, Twine": [
+            "Other Game Engines (Construct, GDevelop, Defold, Ren'Py, Cryengine, etc.)"
+        ],
+        "Defold, RenPy": [
+            "Other Game Engines (Construct, GDevelop, Defold, Ren'Py, Cryengine, etc.)"
+        ],
+        "Construct 2": [
+            "Other Game Engines (Construct, GDevelop, Defold, Ren'Py, Cryengine, etc.)"
+        ],
+        "Flutter/Flame": [
+            "Low-level framework (LOVE, MonoGame, Heaps, etc.)"
+        ],
+        "P5.js": [
+            "Low-level framework (LOVE, MonoGame, Heaps, etc.)"
+        ],
+        "Construct 2/3": [
+            "Other Game Engines (Construct, GDevelop, Defold, Ren'Py, Cryengine, etc.)"
+        ]
+    },
+    "dificuldades_testes_outro": {
+        "Muitas vezes o prazo de entrega de funcionalidades ou da aplicação consome o tempo da criacao de testes": [
+            "Lack of time, strict deadlines, or unfavorable cost-benefit ratio.",
+            "Difficult to develop and keep the tests up-to-date."
+        ],
+        "coupling of gameplay systems often makes isolated tests difficult to write": [
+            "Technical limitations of the game engine, architecture, or visual scripting (e.g., Unity, Blueprints)."
+        ],
+        "Unity's code structure does not lend itself well to automated testing": [
+            "Technical limitations of the game engine, architecture, or visual scripting (e.g., Unity, Blueprints)."
+        ],
+        "When I write \"difficulty understanding how testing tools work\". it is specifically \"difficulty in communicating to the team and less experienced people\". Core problems I have faced are with the difficulty of _maintaining_ automated testing for non-deterministic things. During development, it is hard to justify the time to build and maintain automated tests when there is a large number of systems to be built and tested. while I understand that testing is useful for refactoring, the combination of time it takes to maintain, and then to _train_ others to maintain the task (see what I said about juniors) makes it hard to justify. Without maintenance and regular use, automated testing tools rapidly fail to cover the required testing and must be maintained along with the shifting scope of work of the game. Praticularly difficult for live-service games where content rapidly changes over time. Also things like TDD is not always appropriate for non-deterministic systems. though for core deterministic system - inventory, quest/flows, etc. it is good.": [
+            "Difficulty understanding how testing tools work.",
+            "Difficult to develop and keep the tests up-to-date.",
+            "Lack of time, strict deadlines, or unfavorable cost-benefit ratio.",
+            "Difficulty testing subjective elements (\"game feel\", player experience) or non-deterministic gameplay.",
+            "Team limitations (difficulty training team members or getting them on board)."
+        ],
+        "Can't test \"feels right\" with unit tests": [
+            "Difficulty testing subjective elements (\"game feel\", player experience) or non-deterministic gameplay."
+        ],
+        "I have no problem with using automatic tests and do it one job to - but sometimes I am just impatient to play. If I don't face an error, I don't write a test \"posthum\". I'd usually try to avoid dependencies by architecture, so I rarely need to go back to code that worked.": [
+            "The feeling that manual tests are more practical or efficient.",
+            "Lack of time, strict deadlines, or unfavorable cost-benefit ratio."
+        ],
+        "Most of those aren't real-world things. Much like junior developers we hire, questions like that are often answered by educating younger developers about the purposes of testing. Most of those checkboxes aren't the purpose. Testing doesn't make *correct*, testing makes *permanent*. Before writing tests it is important to understand the nature of the tests, why you are testing what you are testing, the boundaries of the system under test, and the goals for the suites of tests being added to. There are situations with a strong business case for automated tests, there are situations with a strong business case against automated tests, and it's important to educate the team about which type you're doing on any given project. Automated tests make the most sense when code behavior is permanent, maintained, and shared. Transient systems don't benefit automated testing as the long tail of maintenance doesn't justify the cost, manual testing with thoughtful test plans are cheaper and faster. Unit tests don't test integration, they test the individual unit of code, typically best when you have a verb to perform on data or clear pre/post conditions. Integration tests and feature tests make permanent the bindings between systems, they are critical in long-term supported code but are a waste of time on once-and-done or once-and-iterated gameplay code. Tests integrated into build systems, integrated into version control, integrated into pre-checkin tools, integrated into editors, all of them have their place. There are tests as specification, tests as documentation, test as safety nets.": [
+            "The feeling that manual tests are more practical or efficient.",
+            "Difficult to develop and keep the tests up-to-date.",
+            "Lack of time, strict deadlines, or unfavorable cost-benefit ratio.",
+            "Team limitations (difficulty training team members or getting them on board)."
+        ],
+        "most of gameplay code is *very* fuzzy by nature, which complicates testing correctness. also, we favor testing the actual player feeling/experience (e.g \"does the character controller feels right to play with??\")": [
+            "Difficulty testing subjective elements (\"game feel\", player experience) or non-deterministic gameplay."
+        ],
+        "none": [
+            "None"
+        ],
+        "Non technical people tend to have a hard time with test (tech artists for example). Visual scripting like blueprints also are hard to set automated tests": [
+            "Technical limitations of the game engine, architecture, or visual scripting (e.g., Unity, Blueprints).",
+            "Team limitations (difficulty training team members or getting them on board)."
+        ],
+        "Hard to cover all eventualities in complex behaviours": [
+            "Difficult to develop and keep the tests up-to-date.",
+            "Difficulty testing subjective elements (\"game feel\", player experience) or non-deterministic gameplay."
+        ],
+        "Ain’t nobody got no time for tests": [
+            "Lack of time, strict deadlines, or unfavorable cost-benefit ratio."
+        ],
+        "No dieron ningún fruto positivo y se volvieron un problema a corto y largo prazo": [
+            "Difficult to develop and keep the tests up-to-date.",
+            "Perception that automated tests do not find the \"bugs that matter\"."
+        ],
+        "Difficult to deal with interactive nature, difficult to keep stable under changing environment or context, increased cost (that is more easily offset with QA), difficult to use on consoles / mobile.": [
+            "Difficult to develop and keep the tests up-to-date.",
+            "The feeling that manual tests are more practical or efficient.",
+            "Lack of time, strict deadlines, or unfavorable cost-benefit ratio.",
+            "Difficulty testing subjective elements (\"game feel\", player experience) or non-deterministic gameplay."
+        ],
+        "Maintaining tests as gameplay features evolve.": [
+            "Difficult to develop and keep the tests up-to-date."
+        ],
+        "Getting automated tests to test the game as the players play.": [
+            "Difficulty testing subjective elements (\"game feel\", player experience) or non-deterministic gameplay."
+        ],
+        "Unity's environment need abstraction to create reliable testing": [
+            "Technical limitations of the game engine, architecture, or visual scripting (e.g., Unity, Blueprints)."
+        ],
+        "Compatibilidade com projeto. UI ou controles": [
+            "Complication integrating tests into the project workflow.",
+            "Technical limitations of the game engine, architecture, or visual scripting (e.g., Unity, Blueprints)."
+        ],
+        "the time benefit gained rarely outweighs the setup and maintanance time involved for the smaller scale projects i work on": [
+            "Lack of time, strict deadlines, or unfavorable cost-benefit ratio.",
+            "Difficult to develop and keep the tests up-to-date."
+        ],
+        "Getting other team members on board and up to speed": [
+            "Team limitations (difficulty training team members or getting them on board)."
+        ],
+        "For new projects, iterating quickly is slowed by tests. On more mature systems, changes are rare during the content development phase": [
+            "Complication integrating tests into the project workflow.",
+            "Lack of time, strict deadlines, or unfavorable cost-benefit ratio."
+        ],
+        "I’ve never used automated testing games. I have in other industries.": [
+            "I have never tried using automated tests."
+        ],
+        "Answered this in the previous question. Since our game is deterministic we can play single and multiplayer games and use those save files for quick testing by running the simulation only and checking the hash. It's not automed in the sense you mean. But still make our tests manually in that sense because we don't trust generated tests because it's tricky or time consuming to verify, and in that time we may as well create our own frameworks for our niche, which we did.": [
+            "The feeling that manual tests are more practical or efficient.",
+            "Lack of time, strict deadlines, or unfavorable cost-benefit ratio.",
+            "Perception that automated tests do not find the \"bugs that matter\"."
+        ],
+        "No dieron ningún fruto positivo y se volvieron un problema a corto y largo plazo": [
+            "Lack of time, strict deadlines, or unfavorable cost-benefit ratio.",
+            "Perception that automated tests do not find the \"bugs that matter\"."
+        ]
+    },
+    "ferramentas_teste_outro": {
+        "I’ll write my own most of the time.": [
+            "Custom, In-house, or Proprietary Testing Tools (including custom bots)"
+        ],
+        "Jest": [
+            "General Software Testing Frameworks (NUnit, Jest, Pytest, Rust/C++ units, Playwright, etc.)"
+        ],
+        "NUnit, various custom test harnesses": [
+            "Custom, In-house, or Proprietary Testing Tools (including custom bots)",
+            "General Software Testing Frameworks (NUnit, Jest, Pytest, Rust/C++ units, Playwright, etc.)"
+        ],
+        "Github Action scripts": [
+            "CI/CD and DevOps Automation Tools (GitHub Actions, TeamCity, SonarQube, etc.)"
+        ],
+        "Catch2": [
+            "General Software Testing Frameworks (NUnit, Jest, Pytest, Rust/C++ units, Playwright, etc.)"
+        ],
+        "NUnit": [
+            "General Software Testing Frameworks (NUnit, Jest, Pytest, Rust/C++ units, Playwright, etc.)"
+        ],
+        "NUnit + Moq": [
+            "General Software Testing Frameworks (NUnit, Jest, Pytest, Rust/C++ units, Playwright, etc.)"
+        ],
+        "Propriatory": [
+            "Custom, In-house, or Proprietary Testing Tools (including custom bots)"
+        ],
+        "In-house tools": [
+            "Custom, In-house, or Proprietary Testing Tools (including custom bots)"
+        ],
+        "custom tools": [
+            "Custom, In-house, or Proprietary Testing Tools (including custom bots)"
+        ],
+        "Self written or makefile+shellscript generated test.c that calls tests in other files.": [
+            "Custom, In-house, or Proprietary Testing Tools (including custom bots)"
+        ],
+        "Old web job": [
+            "Custom, In-house, or Proprietary Testing Tools (including custom bots)"
+        ],
+        "Rust unit test + snapshot tests via insta": [
+            "General Software Testing Frameworks (NUnit, Jest, Pytest, Rust/C++ units, Playwright, etc.)"
+        ],
+        "In addition to those, various xUnit suites like cppUnit, NUnit, JUnit, pytest, Selenium, Sonar / SonarQube, Fit / Fitnesse, Valgrind, performance testing suites that monitor hardware load, agents that continuously play the game both in headless modes and on screen, ranging from button mashing to running game scripts as NPCs or play partners, when a game has an automated play partner assigning two of them together should be able to win the game, and many more.": [
+            "Custom, In-house, or Proprietary Testing Tools (including custom bots)",
+            "General Software Testing Frameworks (NUnit, Jest, Pytest, Rust/C++ units, Playwright, etc.)",
+            "CI/CD and DevOps Automation Tools (GitHub Actions, TeamCity, SonarQube, etc.)"
+        ],
+        "Custom CI tools": [
+            "Custom, In-house, or Proprietary Testing Tools (including custom bots)",
+            "CI/CD and DevOps Automation Tools (GitHub Actions, TeamCity, SonarQube, etc.)"
+        ],
+        "Proprietary to company engine": [
+            "Custom, In-house, or Proprietary Testing Tools (including custom bots)"
+        ],
+        "In house": [
+            "Custom, In-house, or Proprietary Testing Tools (including custom bots)"
+        ],
+        "Cpputest, I'm a engine dev, making sure I don't mess the API intended behaviour is more important than game play.": [
+            "General Software Testing Frameworks (NUnit, Jest, Pytest, Rust/C++ units, Playwright, etc.)"
+        ],
+        "Bespoke tooling developed in-house": [
+            "Custom, In-house, or Proprietary Testing Tools (including custom bots)"
+        ],
+        "Bevy: rust automated testing": [
+            "General Software Testing Frameworks (NUnit, Jest, Pytest, Rust/C++ units, Playwright, etc.)"
+        ],
+        "Rust’s unit test facility with Bevy": [
+            "General Software Testing Frameworks (NUnit, Jest, Pytest, Rust/C++ units, Playwright, etc.)"
+        ],
+        "Unit tests in Rust": [
+            "General Software Testing Frameworks (NUnit, Jest, Pytest, Rust/C++ units, Playwright, etc.)"
+        ],
+        "NUnit for standard C# unit testing": [
+            "General Software Testing Frameworks (NUnit, Jest, Pytest, Rust/C++ units, Playwright, etc.)"
+        ],
+        "Custom bevy testing framework": [
+            "Custom, In-house, or Proprietary Testing Tools (including custom bots)"
+        ],
+        "Custom": [
+            "Custom, In-house, or Proprietary Testing Tools (including custom bots)"
+        ],
+        "Próprio feito na mão": [
+            "Custom, In-house, or Proprietary Testing Tools (including custom bots)"
+        ],
+        "Several, but none game-industry specefic": [
+            "General Software Testing Frameworks (NUnit, Jest, Pytest, Rust/C++ units, Playwright, etc.)"
+        ],
+        "Custom in-house tools.": [
+            "Custom, In-house, or Proprietary Testing Tools (including custom bots)"
+        ],
+        "Alt unity tester e ferramenta interna": [
+            "Unity Test Framework",
+            "Custom, In-house, or Proprietary Testing Tools (including custom bots)"
+        ],
+        "TeamCity": [
+            "CI/CD and DevOps Automation Tools (GitHub Actions, TeamCity, SonarQube, etc.)"
+        ],
+        "I tend to write my own code to test, rather than using built in testing tools.": [
+            "Custom, In-house, or Proprietary Testing Tools (including custom bots)"
+        ],
+        "Custom written bots": [
+            "Custom, In-house, or Proprietary Testing Tools (including custom bots)"
+        ],
+        "Playwright for a TS browser game": [
+            "General Software Testing Frameworks (NUnit, Jest, Pytest, Rust/C++ units, Playwright, etc.)"
+        ],
+        "Numerous unit testing tools in many languages, custom unit test frameworks": [
+            "Custom, In-house, or Proprietary Testing Tools (including custom bots)",
+            "General Software Testing Frameworks (NUnit, Jest, Pytest, Rust/C++ units, Playwright, etc.)"
+        ],
+        "I integrate it myself into my CLI build prior to UI development": [
+            "Custom, In-house, or Proprietary Testing Tools (including custom bots)"
+        ],
+        "Our own built ones": [
+            "Custom, In-house, or Proprietary Testing Tools (including custom bots)"
+        ],
+        "LUA busted": [
+            "General Software Testing Frameworks (NUnit, Jest, Pytest, Rust/C++ units, Playwright, etc.)"
+        ],
+        "Sempre criamos internamente": [
+            "Custom, In-house, or Proprietary Testing Tools (including custom bots)"
+        ],
+        "Proprietario": [
+            "Custom, In-house, or Proprietary Testing Tools (including custom bots)"
+        ],
+        "DefTest": [
+            "General Software Testing Frameworks (NUnit, Jest, Pytest, Rust/C++ units, Playwright, etc.)"
+        ],
+        "Django Test Framework (nossos jogos são cliente / servidor)": [
+            "General Software Testing Frameworks (NUnit, Jest, Pytest, Rust/C++ units, Playwright, etc.)"
+        ],
+        "Python unittest": [
+            "General Software Testing Frameworks (NUnit, Jest, Pytest, Rust/C++ units, Playwright, etc.)"
+        ],
+        "hand-written": [
+            "Custom, In-house, or Proprietary Testing Tools (including custom bots)"
+        ],
+        "Internally developed": [
+            "Custom, In-house, or Proprietary Testing Tools (including custom bots)"
+        ],
+        "created": [
+            "Custom, In-house, or Proprietary Testing Tools (including custom bots)"
+        ],
+        "Ferramenta desenvolvida internamente": [
+            "Custom, In-house, or Proprietary Testing Tools (including custom bots)"
+        ]
+    },
+    "etapa_testes_outro": {
+        "I moved away from automated testing workflows for the current Unity project. I will be doing test-driven development in future, non-Unity projects.": "I do not use automated tests",
+        "you cannot ask a very broad question that includes all types of automated tests in question 20, and then ask when do you usually do it. Each type of test has a different lifecycle. your remaining questions I will not answer, I have lost faith in your seriousness in producing anything that benefits game developers if you do not understand this point. good luck.": "Invalid response, critique of the survey, or out of scope",
+        "All of those, depending on the systems being developed. TDD for expanding existing systems where you can make the red test first. During implementation for component tests or cross-functional tests, or documentary tests. There is always a cleanup step which is testing after creation. There is code where not testing is appropriate, instead getting tests added to the smoke test guides, or for manual usability testing, or other timelines.": "It depends on the project/system, or I use a hybrid approach (combination of phases)",
+        "I don't know": "I do not know, or I am not the person responsible for implementing tests",
+        "I'm not the one implementing": "I do not know, or I am not the person responsible for implementing tests",
+        "After the API is stable and everytime a change is made.": "During or right after implementing the feature — I write tests along with the code",
+        "Depends on project, usually when something is feature approved or it is considered core of game development. In preproduction it depends in production functional core gameplay, stress tests, ...": "It depends on the project/system, or I use a hybrid approach (combination of phases)",
+        "A combination of the above. A certain set before, a certain set during (as development indicate problem areas), and as bugs show weaknesses in the code": "It depends on the project/system, or I use a hybrid approach (combination of phases)",
+        "It's a mix of per task post-impementation for scripted unit-tests, and QA engineering generating user-simulation integration testing after features are complete.": "It depends on the project/system, or I use a hybrid approach (combination of phases)"
+    },
+    "conteudo_testado_outro": {
+        "integration tests with related in-game components or external services": [
+            "Integration and End-to-End (E2E) Testing — I test how multiple components, sub-systems, or features work together.",
+            "Backend, Server, and External Services — I test APIs, databases, server logic, or network services outside the game client."
+        ],
+        "Right now, just basic system components and very lightly at that. More usually, I use the prototype implementation of that system (a full blown console app) as my test.": [
+            "Isolated components — I verify if specific parts of the code work correctly independently (Unit Testing)"
+        ],
+        "In addition to all of those, integration tests, gauntlet style feature tests, end-to-end tests, database tests, utility method tests, component tests, acceptance tests, documentary tests that show how a system is intended to work, system load tests, and so many more.": [
+            "Isolated components — I verify if specific parts of the code work correctly independently (Unit Testing)",
+            "Basic performance — I evaluate load times, frame rate (FPS), or resource consumption",
+            "Integration and End-to-End (E2E) Testing — I test how multiple components, sub-systems, or features work together.",
+            "Backend, Server, and External Services — I test APIs, databases, server logic, or network services outside the game client."
+        ],
+        "Server end to end testing, outside of the game engine": [
+            "Integration and End-to-End (E2E) Testing — I test how multiple components, sub-systems, or features work together.",
+            "Backend, Server, and External Services — I test APIs, databases, server logic, or network services outside the game client."
+        ],
+        "Some integration tests and API tests": [
+            "Integration and End-to-End (E2E) Testing — I test how multiple components, sub-systems, or features work together.",
+            "Backend, Server, and External Services — I test APIs, databases, server logic, or network services outside the game client."
+        ],
+        "Our integration tests based on our determistic model covers whole save games as mentioned before": [
+            "Specific game scenarios — I simulate gameplay situations to check if the game responds as expected",
+            "Integration and End-to-End (E2E) Testing — I test how multiple components, sub-systems, or features work together."
+        ]
+    },
+    "tipo_falha_outro": {
+        "multiplayer replication": [
+            "Networking, Sync, Backend, and Infrastructure Issues (e.g., replication, server downtime, security)"
+        ],
+        "monetization pitfalls": [
+            "Business, Monetization, and Financial Risks"
+        ],
+        "Player escaping the level bounds": [
+            "Collision errors and physics"
+        ],
+        "All pf the above - anything that turns players away or loses sales is a priority": [
+            "Stuck — player gets stuck without being able to exit (Softlock)",
+            "Crash — game closes, freezes, or hangs",
+            "Visual glitches or strange audio noises",
+            "Performance drops or framerate instability",
+            "Collision errors and physics",
+            "Game balance outside the planned level (too easy, too hard, or inconsistent)",
+            "Core Design Flaws, Boring Gameplay Loops, or Lack of Player Engagement",
+            "Business, Monetization, and Financial Risks"
+        ],
+        "My task as CTO of an online game, is specifically on the engineering culture, and therefore my focus is on technical architecture and infrastructure. this includes backend systems, infrastructure, CI pipelines, real-time communications infra, analytics infrastructure, and so on. your list is too focused on the roles of game designers and UX rather than the other needs of testing for systems and infrastructure": [
+            "Networking, Sync, Backend, and Infrastructure Issues (e.g., replication, server downtime, security)"
+        ],
+        "Network related issues/bad actors": [
+            "Networking, Sync, Backend, and Infrastructure Issues (e.g., replication, server downtime, security)"
+        ],
+        "All of those and more are prioritized. This question doesn't make much sense against industry practice. Neither design nor triage nor scoping spend their efforts to \"prioritize avoiding\". Tasks and scheduling are focused toward specific goals, not avoiding situations.": [
+            "Not Applicable (e.g., out-of-scope roles, meta-responses, personal motivation)"
+        ],
+        "I mainly rig models, in collaboration with other devs": [
+            "Visual glitches or strange audio noises"
+        ],
+        "Performance of networking": [
+            "Networking, Sync, Backend, and Infrastructure Issues (e.g., replication, server downtime, security)"
+        ],
+        "For development build health, if that is broken then entire production suffers. Any gameplay braking bugs.": [
+            "Crash — game closes, freezes, or hangs"
+        ],
+        "Me getting bored making the game": [
+            "Not Applicable (e.g., out-of-scope roles, meta-responses, personal motivation)"
+        ],
+        "Rarely have time to test": [
+            "Not Applicable (e.g., out-of-scope roles, meta-responses, personal motivation)"
+        ],
+        "Boring gameplay loops that go against core vision": [
+            "Core Design Flaws, Boring Gameplay Loops, or Lack of Player Engagement"
+        ],
+        "Não atuo diretamente na implementação do áudio no jogo ainda": [
+            "Not Applicable (e.g., out-of-scope roles, meta-responses, personal motivation)"
+        ],
+        "Possíveis problemas financeiros": [
+            "Business, Monetization, and Financial Risks"
+        ]
+    },
+    "avaliacao_artefatos_outro": {
+        "Reddit": [
+            "Informal external feedback (e.g., sharing with friends, online communities like Reddit)"
+        ],
+        "Just feel it out, trust my gut. A perk of working solo on a game as art": [
+            "I rely on informal or subjective evaluation, without a structured evaluation process"
+        ],
+        "Saliency filtering, observation and human sense modeling": [
+            "I perform formal tests with users or specific tools"
+        ],
+        "Not yet at this stage": [
+            "Not yet evaluating"
+        ],
+        "All of these. We have well-defined criteria, style guides, brand guidelines, and concept art. Each small team is constantly reviewing the work. Every submission gets a team review on Swarm or similar systems, with at least two other people approving. There are weekly playtests with different groups scheduled almost every day of the week, and QA provides constant communications about items they feel don't fit the styles even when they are within the style guides.": [
+            "I use previously defined criteria (e.g., style, clarity, audience suitability)",
+            "I rely on informal or subjective evaluation, without a structured evaluation process",
+            "I perform formal tests with users or specific tools",
+            "The evaluation is done mainly by other people on the team"
+        ],
+        "I hope it’s good enough": [
+            "Not yet evaluating"
+        ],
+        "I just send it to some friends and ask what they think about, I know, completely unbiased": [
+            "I rely on informal or subjective evaluation, without a structured evaluation process",
+            "Informal external feedback (e.g., sharing with friends, online communities like Reddit)"
+        ],
+        "Teste com audiencia, coloco esses itens em prova, as vezes demonstro de forma isolada.": [
+            "I perform formal tests with users or specific tools"
+        ],
+        "It's a mix of all of these.": [
+            "I use previously defined criteria (e.g., style, clarity, audience suitability)",
+            "I rely on informal or subjective evaluation, without a structured evaluation process",
+            "I perform formal tests with users or specific tools",
+            "The evaluation is done mainly by other people on the team"
+        ],
+        "Consult Art Director": [
+            "The evaluation is done mainly by other people on the team"
+        ],
+        "Game design document with all the rules, internal subjective evsluation and playtesters.": [
+            "I use previously defined criteria (e.g., style, clarity, audience suitability)",
+            "I rely on informal or subjective evaluation, without a structured evaluation process",
+            "I perform formal tests with users or specific tools"
+        ]
+    },
+    "design_validacao_outro": {
+        "Utilizando regras do KISS + SOLID eu estruturo mentalmente ou desenho o sistema, apartir de quando tenho certeza de que formato vou implementar, inicio a implementação": [
+            "I mentally simulate scenarios and interactions",
+            "Writing documents, mind maps, diagrams, or narrative explorations"
+        ],
+        "Quando colocamos que eu \"implemento diretamente sem fazer validação\" faz parecer que eu não me importo. Mas sim, eu faço isso, mas com o intuito de verificar diretamente no jogo o resultado.": [
+            "I usually implement directly without prior design validation."
+        ],
+        "Simply writing things down before implementation can catch a lot of problems": [
+            "Writing documents, mind maps, diagrams, or narrative explorations"
+        ],
+        "see 21a": [
+            "Unspecified"
+        ],
+        "Not prototypes (because those are one off), Minimal Viable Products applied to features (that way if it works, time is saved by building on top of it)": [
+            "I usually implement directly without prior design validation.",
+            "Through simplified playable prototypes (digital or analog)"
+        ],
+        "Have game desingers, through partial implementation in iterative design": [
+            "I usually implement directly without prior design validation.",
+            "Discussions, meetings, or feedback from team members and clients"
+        ],
+        "I don’t": [
+            "I usually implement directly without prior design validation."
+        ],
+        "Working alone, it's kind of all in your head...": [
+            "I mentally simulate scenarios and interactions"
+        ],
+        "Done by other people on the team": [
+            "Discussions, meetings, or feedback from team members and clients"
+        ],
+        "Simulo as interações via papel e caneta/mapa mental": [
+            "Writing documents, mind maps, diagrams, or narrative explorations",
+            "Through simplified playable prototypes (digital or analog)"
+        ],
+        "Narrative exploration of gameplay--writing about how things ought to happen.": [
+            "Writing documents, mind maps, diagrams, or narrative explorations"
+        ],
+        "Paper or digital documents that aren't a simulation, discussing with friends...": [
+            "Writing documents, mind maps, diagrams, or narrative explorations",
+            "Discussions, meetings, or feedback from team members and clients"
+        ],
+        "I'm a programmer, my implementation is the test.": [
+            "I usually implement directly without prior design validation."
+        ],
+        "We always 'hack' proof of concept code to get a feature done quick and dirty to test. If it passes the code gets deleted and redone or refactored if the foundation is good enough. Depends on if code guidelines were followed, which usually isn't the case to get it done quickly.": [
+            "Through simplified playable prototypes (digital or analog)"
+        ],
+        "I personally \"simplify prototype\" but every studio I've worked at implements directly without validation... and then wonders why it fails.": [
+            "Through simplified playable prototypes (digital or analog)",
+            "I usually implement directly without prior design validation."
+        ],
+        "No áudio fazemos testes em aparelhos diferentes e o cliente faz os testes no jogo": [
+            "Discussions, meetings, or feedback from team members and clients"
+        ],
+        "Reuniões de discussão sobre o design": [
+            "Discussions, meetings, or feedback from team members and clients"
+        ]
+    },
+    "areas_uso_ia_outro": {
+        "Utilizo apenas em calculos complexos como os de Trigonometria ou durante o aprendizado de alguma tecnologia, visando não utilizar mais assim que possivel.": [
+            "Research, Learning, and Understanding Documentation (e.g., advanced search, explaining code, math)"
+        ],
+        "Alpha Localization": [
+            "Text Refinement and Localization (e.g., spellchecking, translation, thesaurus)",
+            "Prototyping, Tooling, and Placeholders (e.g., quick scripts, temporary programmer art)"
+        ],
+        "Especialmente para me explicar partes de código que eu desconheço": [
+            "Research, Learning, and Understanding Documentation (e.g., advanced search, explaining code, math)"
+        ],
+        "Used it but it's less than helpful so far": [
+            "Tried but found unhelpful"
+        ],
+        "see 21a": [
+            "Tried but found unhelpful"
+        ],
+        "Spellchecking, Research as a starting point": [
+            "Text Refinement and Localization (e.g., spellchecking, translation, thesaurus)",
+            "Research, Learning, and Understanding Documentation (e.g., advanced search, explaining code, math)"
+        ],
+        "Indirectly, as a last resort to learn a concept, when all documentation fails. The other option may be embedded as gameplay systems.": [
+            "Research, Learning, and Understanding Documentation (e.g., advanced search, explaining code, math)"
+        ],
+        "We use it but not in these ways. Some engineers prompt to get the base of an implementation when using systems they're unfamiliar with, but it is a staring point and never an end point. Generative AI can work as an artistic prompt but all the art teams agree the generated stuff is mostly crap, from oversaturated colors to wrongly stylized creations. It can work for brainstorming or exploring concepts, but good concept artists create sketches faster than generative AI generates full renders.": [
+            "To assist in implementation (e.g., writing or reviewing code, suggesting technical solutions)",
+            "To generate creative ideas (e.g., characters, mechanics, narratives, dialogues)",
+            "Prototyping, Tooling, and Placeholders (e.g., quick scripts, temporary programmer art)"
+        ],
+        "I use it to understand ill-documented libraries, uncover resources, do specific code transformations that refactoring tools cannot do, writing small tools (especially automation) such as batch scripts in technologies I don't know well, to automate things on systems I don't know well, etc.": [
+            "Research, Learning, and Understanding Documentation (e.g., advanced search, explaining code, math)",
+            "To assist in implementation (e.g., writing or reviewing code, suggesting technical solutions)",
+            "Prototyping, Tooling, and Placeholders (e.g., quick scripts, temporary programmer art)"
+        ],
+        "Strictly for trying to decipher unreal engines poor documentation": [
+            "Research, Learning, and Understanding Documentation (e.g., advanced search, explaining code, math)"
+        ],
+        "I use LLM's as advanced search engines, to find code snippets or shaders, sometimes change shaders to be godot compatible, and talk about good coding practices.": [
+            "Research, Learning, and Understanding Documentation (e.g., advanced search, explaining code, math)",
+            "To assist in implementation (e.g., writing or reviewing code, suggesting technical solutions)"
+        ],
+        "I use AI as an advanced search engine mostly.": [
+            "Research, Learning, and Understanding Documentation (e.g., advanced search, explaining code, math)"
+        ],
+        "Investigacion.": [
+            "Research, Learning, and Understanding Documentation (e.g., advanced search, explaining code, math)"
+        ],
+        "(art wise) only to enhance something already made only for inhouse understanding/reference or to test technical questions (maths/numbers)": [
+            "Research, Learning, and Understanding Documentation (e.g., advanced search, explaining code, math)",
+            "Prototyping, Tooling, and Placeholders (e.g., quick scripts, temporary programmer art)"
+        ],
+        "Generally used as a thesaurus or to help make my \"programmer art\" look better, to implement specific algorithms like A* or for rapidly prototyping. Always in areas where it's easy to verify if the AI produced a reasonable output without much effort.": [
+            "Text Refinement and Localization (e.g., spellchecking, translation, thesaurus)",
+            "Prototyping, Tooling, and Placeholders (e.g., quick scripts, temporary programmer art)",
+            "To assist in implementation (e.g., writing or reviewing code, suggesting technical solutions)"
+        ],
+        "It's use for automated in code documentation and for the quick proof of concept prototyping to quickly see if an idea holds. Generally speaking AI's cannot deliver code quality we expect. But it gets also used to make quick unity tooling in which code quality is less important because it needs to do simple things which do not ship with the game. Think about item creation, SVG bakers or other niche tools.": [
+            "To plan or structure the game (e.g., documentation, system architecture, balancing)",
+            "Prototyping, Tooling, and Placeholders (e.g., quick scripts, temporary programmer art)"
+        ],
+        "Primarily, it's prototype filler. When an artist is assigned an art task I can use AI to put something into the game. This lets me build something with a prettier look than programmer art.": [
+            "Prototyping, Tooling, and Placeholders (e.g., quick scripts, temporary programmer art)"
+        ],
+        "os mais para estruturamento de produtividade e pesquisas do que no projeto em si": [
+            "Research, Learning, and Understanding Documentation (e.g., advanced search, explaining code, math)"
+        ],
+        "Explain code segments or brainstorm best approach to implement something": [
+            "Research, Learning, and Understanding Documentation (e.g., advanced search, explaining code, math)",
+            "To assist in implementation (e.g., writing or reviewing code, suggesting technical solutions)"
+        ]
+    },
+    "percepcao_uso_ia_outro": {
+        "it tends to generate a ton of technical debt and subtle bugs because it erodes engineers’ understanding of the code": [
+            "Low quality output, technical debt, bugs, and increased review time (e.g., 'AI Slop')",
+            "Loss of human skills, cognitive debt, and over-reliance on AI"
+        ],
+        "I tried using AI, but it simply.is not good enough to write proper code. I develop a voxel game, performance is key. AI written code, even after giving super detailed instructions, is still way worse than what I write myself. The only time it produces acceptable results (still not good, just accaptable) i have to do so much research and provide AI with so much info, that it would have been faster to write it myself.": [
+            "Low quality output, technical debt, bugs, and increased review time (e.g., 'AI Slop')"
+        ],
+        "AI being unable to properly validate its own behavior -- IE: it can't tell you, \"no, I don't know the answer to that question.\"": [
+            "Lack of transparency and difficulty verifying the originality or reliability of what AI produces"
+        ],
+        "Loss of vision and artistic intent - frankly embarassing to not have this as an option in the first place": [
+            "Loss of artistic intent, lack of originality, and poor creative control"
+        ],
+        "Output is not up to par with even a junior gamedev in any discipline": [
+            "Low quality output, technical debt, bugs, and increased review time (e.g., 'AI Slop')"
+        ],
+        "Lack of quality in AI": [
+            "Low quality output, technical debt, bugs, and increased review time (e.g., 'AI Slop')"
+        ],
+        "Public sentiment toward generated content; more time spent with AI than without it": [
+            "Negative public perception and potential reputation damage",
+            "Low quality output, technical debt, bugs, and increased review time (e.g., 'AI Slop')"
+        ],
+        "Quality concerns; that the output of AI is treated as gospel by the higher-ups even when the workers state it's worse than or took longer than the result of manual labor, leading to a worse product overall.": [
+            "Low quality output, technical debt, bugs, and increased review time (e.g., 'AI Slop')",
+            "Loss of human skills, cognitive debt, and over-reliance on AI"
+        ],
+        "AI Slop Bro. It can generate 1000s of lines of code that you then have to go read and understand what it actually is doing. Also, it doesn't work at all for any project with any complexity.": [
+            "Low quality output, technical debt, bugs, and increased review time (e.g., 'AI Slop')"
+        ],
+        "Além disso, em geral fica uma merda.": [
+            "Low quality output, technical debt, bugs, and increased review time (e.g., 'AI Slop')"
+        ],
+        "see 21a": [
+            "Do not want answer"
+        ],
+        "Lack of originality and high rate of errors in AI creations": [
+            "Loss of artistic intent, lack of originality, and poor creative control",
+            "Low quality output, technical debt, bugs, and increased review time (e.g., 'AI Slop')"
+        ],
+        "General lack of quality. Also AI is really unpopular with many people so it's a bad idea to use it in fields where it would be noticed. Reputation.": [
+            "Low quality output, technical debt, bugs, and increased review time (e.g., 'AI Slop')",
+            "Negative public perception and potential reputation damage"
+        ],
+        "Competency, not only of the AI, but also myself. I value my ability to perform tasks. Even before the advent of the MIT paper on people's mental faculties, was concerned about delegating so much critical thinking to a machine. My main concern with unauthorized use doesn't come from my own beliefs, but instead, from licenses like the GPL and CC-SA": [
+            "Loss of human skills, cognitive debt, and over-reliance on AI",
+            "Unauthorized use of data and ethical issues (copyright, authorship, credits, plagiarism)"
+        ],
+        "Security. AI has proven to be a security nightmare often enough now. Both in the code it produces aswell as the agentic tools themselves.": [
+            "Security vulnerabilities and safety risks of AI agents"
+        ],
+        "AI art is just bad. It's usually very cliché and doesn't make the game a unique experience.": [
+            "Loss of artistic intent, lack of originality, and poor creative control",
+            "Low quality output, technical debt, bugs, and increased review time (e.g., 'AI Slop')"
+        ],
+        "It's a legal minefield. We've had lawyers give multiple training sessions, and rules are strictly enforced including misuse being a fireable offense.": [
+            "Unauthorized use of data and ethical issues (copyright, authorship, credits, plagiarism)"
+        ],
+        "Environmental impact of AI and degrading quality of the end product (AI slop)": [
+            "Environmental and ecological impacts (e.g., power consumption)",
+            "Low quality output, technical debt, bugs, and increased review time (e.g., 'AI Slop')"
+        ],
+        "We are getting dumber over time. Cognitive debt.": [
+            "Loss of human skills, cognitive debt, and over-reliance on AI"
+        ],
+        "Code created by AI tends to have more bugs and security issues, and sometimes we realize only much later": [
+            "Low quality output, technical debt, bugs, and increased review time (e.g., 'AI Slop')",
+            "Security vulnerabilities and safety risks of AI agents"
+        ],
+        "Result not reliable": [
+            "Lack of transparency and difficulty verifying the originality or reliability of what AI produces",
+            "Low quality output, technical debt, bugs, and increased review time (e.g., 'AI Slop')"
+        ],
+        "The output quality it not up to my standards and postprocessing it is slower than developing by hand.": [
+            "Low quality output, technical debt, bugs, and increased review time (e.g., 'AI Slop')"
+        ],
+        "Also privacy, lack of transparency, environmental concerns, and a deep seated disgust towards the concept of giving up any part of a creative endeavor that I am a part of to an automated art-theft machine": [
+            "Privacy concerns: my inputs might be reused without control",
+            "Lack of transparency and difficulty verifying the originality or reliability of what AI produces",
+            "Environmental and ecological impacts (e.g., power consumption)",
+            "Loss of artistic intent, lack of originality, and poor creative control"
+        ],
+        "Que se use para cosas que no sirve realmente de forma obligatoria, como en las pruebas de videojuegos": [
+            "Loss of human skills, cognitive debt, and over-reliance on AI"
+        ],
+        "Over Reliance": [
+            "Loss of human skills, cognitive debt, and over-reliance on AI"
+        ],
+        "That the business incentives behind AI will kill of many creative and important industries and endeavors _without_ replacing them.": [
+            "Fear that professionals in the field will be replaced by AI",
+            "Loss of artistic intent, lack of originality, and poor creative control"
+        ],
+        "Low software quality and loss of general understanding on how to build good software in the next few years.": [
+            "Low quality output, technical debt, bugs, and increased review time (e.g., 'AI Slop')",
+            "Loss of human skills, cognitive debt, and over-reliance on AI"
+        ],
+        "That I'm actually losing time and even expertise.": [
+            "Low quality output, technical debt, bugs, and increased review time (e.g., 'AI Slop')",
+            "Loss of human skills, cognitive debt, and over-reliance on AI"
+        ],
+        "Losing my ability to think on my own": [
+            "Loss of human skills, cognitive debt, and over-reliance on AI"
+        ],
+        "Decrease in quality and standards.": [
+            "Low quality output, technical debt, bugs, and increased review time (e.g., 'AI Slop')"
+        ],
+        "It provides no material benefit to a game. The only benefit is cost and development time, neither of which are factors that are important to a game's quality.": [
+            "Loss of artistic intent, lack of originality, and poor creative control",
+            "Low quality output, technical debt, bugs, and increased review time (e.g., 'AI Slop')"
+        ],
+        "Externalities (e.g. power consumption, the environment) (I could have chosen ethical issues, but I feel like that was talking about something else )": [
+            "Environmental and ecological impacts (e.g., power consumption)"
+        ],
+        "Tech debt and review overhead": [
+            "Low quality output, technical debt, bugs, and increased review time (e.g., 'AI Slop')"
+        ],
+        "Quality of code and the ability to validate its correctness as we use AI to generate greater volumes of code.": [
+            "Low quality output, technical debt, bugs, and increased review time (e.g., 'AI Slop')",
+            "Lack of transparency and difficulty verifying the originality or reliability of what AI produces"
+        ],
+        "lack of creative control (AI might be good at generating once, but is much worse at making small changes) (and how very undeterministic the output is)": [
+            "Loss of artistic intent, lack of originality, and poor creative control",
+            "Lack of transparency and difficulty verifying the originality or reliability of what AI produces"
+        ],
+        "Generative AI is not capable of the skill and quality I require.": [
+            "Low quality output, technical debt, bugs, and increased review time (e.g., 'AI Slop')"
+        ],
+        "AI is useless and unnecessary in creative fields.": [
+            "Loss of artistic intent, lack of originality, and poor creative control"
+        ],
+        "Ela gera coisas de baixa qualidade.": [
+            "Low quality output, technical debt, bugs, and increased review time (e.g., 'AI Slop')"
+        ],
+        "Making people too reliant on AI that they will lose their skills": [
+            "Loss of human skills, cognitive debt, and over-reliance on AI"
+        ],
+        "safety of AI agents usage": [
+            "Security vulnerabilities and safety risks of AI agents"
+        ],
+        "People who rely too much on LLM's in code isn't up to high coding standards especially in high performance code. It's bad for architecture and technical debt. In our team there are strict rules in allowing generated code. Any PR with core code and use if generated code doesn't get approved.": [
+            "Loss of human skills, cognitive debt, and over-reliance on AI",
+            "Low quality output, technical debt, bugs, and increased review time (e.g., 'AI Slop')"
+        ],
+        "Vejo uso de IA generativa como falta de visão criativa, ou seja, vejo como falta de repertório e negação de se construir uma identidade baseada em influência e conexão.": [
+            "Loss of artistic intent, lack of originality, and poor creative control"
+        ],
+        "It seems like there are always errors. I do not have time to get AI to make something, then do the whole thing over again.": [
+            "Low quality output, technical debt, bugs, and increased review time (e.g., 'AI Slop')"
+        ],
+        "falta de autenticidade no projeto": [
+            "Loss of artistic intent, lack of originality, and poor creative control"
+        ],
+        "Falta de estabilidade técnica e a baixa qualidade do código de IA": [
+            "Low quality output, technical debt, bugs, and increased review time (e.g., 'AI Slop')"
+        ],
+        "Having a sloppy product.": [
+            "Low quality output, technical debt, bugs, and increased review time (e.g., 'AI Slop')"
+        ],
+        "Rising hardware prices and the environmental impact": [
+            "Environmental and ecological impacts (e.g., power consumption)"
+        ],
+        "it's not that great": [
+            "Low quality output, technical debt, bugs, and increased review time (e.g., 'AI Slop')"
+        ]
+    },
+    "consideracoes_finais": {
+        "Eu utilizei testes automatizados em um dos meus jogos e foi muito bom. Porem o estilo de produção da minha empresa e de rapida entrega, então acaba sendo mais pratico os testes manuais nas entregas apos a implementação de varias mecânicas.": [
+            "1. Preference for manual testing & human playtesting (self, friends, team, or community)",
+            "3. Time, budget, or delivery constraints (rushed timelines leave no room for testing)"
+        ],
+        "we usually test ourselves and get test players - lots of them.": [
+            "1. Preference for manual testing & human playtesting (self, friends, team, or community)"
+        ],
+        "R": [
+            "Placeholder responses"
+        ],
+        "we found that automated testing was used to excuse engineers not running their code or playing the game which was corrosive": [
+            "10. Critique of software engineering dogmas/buzzwords (SOLID, Clean Code, TDD as mindless overhead)"
+        ],
+        "Regardless of testing workflows, I use the 'Kojima approach'. Once production has reached its major steps, I play test personally over and over to ensure that every aspect has the desired look, feel, responsiveness, etc": [
+            "1. Preference for manual testing & human playtesting (self, friends, team, or community)",
+            "5. Games as a subjective/artistic medium (untestable 'feel', focus on fun, TDD doesn't fit gameplay)"
+        ],
+        "Generally in my games, testing is done by hand. My full time job is as a full stack webdev, there I do write a lot of unit and instrumental tests. I have tried adding it to my project, but seeing as I am the only developer, and generally my games are developped in 3-12 months and barely touched outside of that dev cycle, it is feasible to not use tests as the code base doesn't get big enough to need it (30-100k lines of code). If I worked with more devlopers, we would make it more of a priority. Testing for me also serves as a tool for documentation.": [
+            "1. Preference for manual testing & human playtesting (self, friends, team, or community)",
+            "2. Scope & resource constraints (solo developers, small teams, short cycles, or game jams)"
+        ],
+        "AI is being pushed as the magic bullet that will save both time and money for big companies, as its implementation drastically shortens parts of the production pipeline (preprod and ideation when used right, full asset production when used wrong) as it is easier, cheaper and less resource consuming to pay a subscription to a gen AI bot or setting one locally than it is to interview and select the right members of an art team for a project.\n\nThis is wrong. By definition, all output from AI is not original art, or even \"art\" as every result of its use is informed by the creations of every artist that has ever uploaded their pieces online. Me and thousand other have had our portfolios scrapped (illegaly) and fed to the same systems that today are making entry to the industry an impossible task for new talents.\n\nThe tool itself is not \"evil\" the same way a gun can't be evil, but the misuse driven by either greed or fomo, mostly by industry monoliths, is perverting what it could be and turning it into something to be both hated and feared.\nA slop machine that feeds you content regurgitated over and over again while taking your ability to bring bread to your table at the same time.\n\nGames have always been art, they are the result of a need to communicate something, a message that is made real through the prism of all the people working on them, even the most commercial popcorn blockbuster game, from pong to resident evil and everything in between is an example of the human spirit expressing itself.\nThe current trend with AI pushing all of that towards a reality where every game is the result of a bunch of checkboxes and prompts consolidated in a product that is just that. A product. A box with nothing inside.\n\n\nOr maybe I'm a lone man screaming at the clouds trying to stop progress.\nSorry about the rant,": [
+            "9. Opinions on Generative AI (Ethical concerns, 'slop', anti-AI policies, or positive productivity tool)",
+            "11. Meta-feedback on the survey, personal backgrounds, or industry rants"
+        ],
+        "Very interesting survey. I often use humans to test my games, mostly people I know. I never used automation, but I'm open to it. Of course, I'm an amateur/hobbyist dev, and dont know everything of programming.": [
+            "1. Preference for manual testing & human playtesting (self, friends, team, or community)",
+            "8. Curiosity, optimism, or interest in adopting automated testing (including AI agent testing)",
+            "11. Meta-feedback on the survey, personal backgrounds, or industry rants"
+        ],
+        "Como sou bastante iniciante nessa area então ainda estou explorando esse mundo do desenvolvimento de jogos, porem sou desenvolvedor backend, e trabalho atualmente num ecommerce, então entendo que testes são essenciais para qualquer tipo de software, seja um jogo, um app de vendas, etc.": [
+            "8. Curiosity, optimism, or interest in adopting automated testing (including AI agent testing)",
+            "11. Meta-feedback on the survey, personal backgrounds, or industry rants"
+        ],
+        "Testing is always secondary. I write tests when I have core game logic (eg score calculation) that cannot break and will impact the end users final experience. If it is part of the subjective experience (eg. How fast does it take to get from point A to B) it doesn’t typically get tested.": [
+            "5. Games as a subjective/artistic medium (untestable 'feel', focus on fun, TDD doesn't fit gameplay)",
+            "7. Successful, active use, or practical implementation of automated testing/CI-CD pipelines"
+        ],
+        "Personally, since I’m making my game as an art form, I find it important to not focus too much on outside opinions. The same way a musician or filmmaker might. I trust my gut, I am my only target audience.\n\nThe only testing I plan on doing is balancing testing. I don’t believe my game requires much more than that.": [
+            "1. Preference for manual testing & human playtesting (self, friends, team, or community)",
+            "5. Games as a subjective/artistic medium (untestable 'feel', focus on fun, TDD doesn't fit gameplay)"
+        ],
+        "It's always been manually testing and playing through a build of the game. It's been the best way to catch bugs and edge cases. I write my own tests to catch preliminary bugs like functions not working, events not firing, etc. But I'd love an automated approach that goes between the two, and gives a better stable build for user testing": [
+            "1. Preference for manual testing & human playtesting (self, friends, team, or community)",
+            "8. Curiosity, optimism, or interest in adopting automated testing (including AI agent testing)"
+        ],
+        "Because it's a really small team and a somewhat low scoped game, although I recognize the importante of automated testing (I'm a web developer veteran) I feel like, especially for game dev, it takes a considerable amount of work to get good tests up. It consumes too much time and energy, both of which I don't have much left.": [
+            "2. Scope & resource constraints (solo developers, small teams, short cycles, or game jams)",
+            "3. Time, budget, or delivery constraints (rushed timelines leave no room for testing)",
+            "4. High cost-of-maintenance & fragility of automated tests (frequent code/UI/gameplay changes)"
+        ],
+        "I dont really have comments. We dont have time or interest in automated testing or CI/CD. Our turnaround times are usually 1-2 months, and uses our core templates. The only bug ive ever seen discovered by automated tests was a minor enum flip, which broke the game changing it - as it was coded backwards across the board. But was a subjective change anyway. An enum for left/right for an object facing you, so is it their left right or your left right.\n\nI think CI/CD is valuable on large projects. But with Unity it requires additional licenses, server setups, repo configs. And i have a policy preventing the team from using third party services as I dont allow vampire subscription fees.\n\nI think we just arent a good candidate for the question. \n\nTo be clear, I have CI/CD and automation baked into our templates - it takes only a moment to enable them. But we havent in 3 or 4 years.": [
+            "2. Scope & resource constraints (solo developers, small teams, short cycles, or game jams)",
+            "3. Time, budget, or delivery constraints (rushed timelines leave no room for testing)",
+            "6. Technical difficulty of testing in standard engines (Unity/Unreal limitations, mocking complexities)"
+        ],
+        "Espero que minhas respostas lhe sejam úteis. No fim das contas, nunca consegui um emprego na área, e acabo usando meu conhecimento como diversão mesmo.": [
+            "11. Meta-feedback on the survey, personal backgrounds, or industry rants"
+        ],
+        "Currently, I tested them manually using Exploratory and Scripted Testing. If I feel that the game is good enough, I usually send the game to the community for them to try the game and ask for their feedbacks. Then, I make the changes for the games according to their feedbacks and tested them again.": [
+            "1. Preference for manual testing & human playtesting (self, friends, team, or community)"
+        ],
+        "In my games, I do manual testing each time.\nI play my self, tell my friend to play the way they want.\nI take suggestion, and if possible try to implement/correct those.": [
+            "1. Preference for manual testing & human playtesting (self, friends, team, or community)"
+        ],
+        "I spend days playing the game through in each difficulty level before release to test various aspects. I spent years measuring my skills at popular casual games and applying those strategies to my games. That gives me the ability to know if my games are too easy, too hard or just right. I wouldn't trust AI to have that information at this stage because it's not training on watching people play games or their end results (in the casual games market). \nWhat I would like AI to do the most is to create the tutorials - how to play the game automatically.": [
+            "1. Preference for manual testing & human playtesting (self, friends, team, or community)",
+            "5. Games as a subjective/artistic medium (untestable 'feel', focus on fun, TDD doesn't fit gameplay)",
+            "9. Opinions on Generative AI (Ethical concerns, 'slop', anti-AI policies, or positive productivity tool)"
+        ],
+        "I've been a software engineer for over 20 years and I've used a number of testing frameworks, however, I don't see any value in using them for game development.\n\nWhen you're building software there are many moving parts and a lot that the end user doesn't see happening / know is happening. However, in a game, if there are bugs you'll find them just by playing.\n\nOf course there are always going to be edge cases, but that's why you do large scale playtests...\n\nFor me a game must feel good to be fun. Bugs break immersion, so you can't allow them to exist in your game, but the best way of finding them is by playing your own game.": [
+            "1. Preference for manual testing & human playtesting (self, friends, team, or community)",
+            "5. Games as a subjective/artistic medium (untestable 'feel', focus on fun, TDD doesn't fit gameplay)"
+        ],
+        "Testing is heavily dependent on the domain - server code usually has robust coverage while client code is sparsely tested due to the complexity of mocking user interaction and concurrent feature states. The type of game, budget and timeline also have a huge effect on the time spent testing vs bugfixing.": [
+            "3. Time, budget, or delivery constraints (rushed timelines leave no room for testing)",
+            "6. Technical difficulty of testing in standard engines (Unity/Unreal limitations, mocking complexities)",
+            "5. Games as a subjective/artistic medium (untestable 'feel', focus on fun, TDD doesn't fit gameplay)"
+        ],
+        "Testes automatizados são uma extrema perda de tempo em jogos. O jogo precisa ser divertido, não só ver se chega ao final se seguir passos específicos.": [
+            "5. Games as a subjective/artistic medium (untestable 'feel', focus on fun, TDD doesn't fit gameplay)"
+        ],
+        "We usually do manual tests for QA and also write our own bots to simulate the behavior of the players.": [
+            "1. Preference for manual testing & human playtesting (self, friends, team, or community)",
+            "7. Successful, active use, or practical implementation of automated testing/CI-CD pipelines"
+        ],
+        "I generally do not use testing because it slows down iteration time far too much for the type of projects I work on (short, offline, single player RPGs). If I were to work on a codebase that is a bit more \"enterprise\" style with a longer expected lifespan of support (ex. an MMORPG or live service game) I would much more heavily consider using automated testing in my workflow.": [
+            "2. Scope & resource constraints (solo developers, small teams, short cycles, or game jams)",
+            "4. High cost-of-maintenance & fragility of automated tests (frequent code/UI/gameplay changes)",
+            "5. Games as a subjective/artistic medium (untestable 'feel', focus on fun, TDD doesn't fit gameplay)"
+        ],
+        "Na minha humilde opinião, os melhores testes são realizados com o público alvo, através de uma demo jogável.": [
+            "1. Preference for manual testing & human playtesting (self, friends, team, or community)"
+        ],
+        "Como ultimamente temos feito muitos jogos para VR, temos utilizado questionários e pesquisas para avaliar conforto, tais como o VRSQ": [
+            "1. Preference for manual testing & human playtesting (self, friends, team, or community)",
+            "11. Meta-feedback on the survey, personal backgrounds, or industry rants"
+        ],
+        "I plan to implement GUT in my Godot project, just haven't yet... I am a solo dev who is not relying on games to pay bills, so I'm flexible with respect to the process.": [
+            "8. Curiosity, optimism, or interest in adopting automated testing (including AI agent testing)",
+            "2. Scope & resource constraints (solo developers, small teams, short cycles, or game jams)"
+        ],
+        "Em projetos pequenos, as vezes construir uma estrutura mais robusta de testes pode ser uma tarefa mais árdua. Com isso, quando possível, um estrutura mais enxuta é o ideal a se fazer. Assim como, por vezes, a construção conceitual do teste já é suficiente para casos pequenos, não necessária a construção da implementação dos testes automatizados. Mas isso varia de escopo de projeto. Quando eles tendem ao crescimento, é bom ter uma reserva de testes automaziados, principalmente quando várias mecânicas de jogo interagem no ambiente.": [
+            "2. Scope & resource constraints (solo developers, small teams, short cycles, or game jams)",
+            "4. High cost-of-maintenance & fragility of automated tests (frequent code/UI/gameplay changes)"
+        ],
+        "The commonly used game engines don't facilitate code structures which are easily testable. \nUnreal Engine is so very old. Using rigid, 1990s style OOP structures. Unity is... weird. Can be test-driven, but as soon as you start interacting with the engine it becomes a problem. \n\nWhile exploring the possibility to move towards a custom engine, a major unexpected takeaway was how much easier it was to write good, clean, and testable code. \n\nNow, gameplay code generally favors fast iteration. This is an area where unit testing works against you. In the future, I intend to find a balance between test-driven development (in particular for more formal, contract-based engine code) and perhaps something more freeform for gameplay.": [
+            "6. Technical difficulty of testing in standard engines (Unity/Unreal limitations, mocking complexities)",
+            "4. High cost-of-maintenance & fragility of automated tests (frequent code/UI/gameplay changes)",
+            "5. Games as a subjective/artistic medium (untestable 'feel', focus on fun, TDD doesn't fit gameplay)"
+        ],
+        "I hv nothing else to": [
+            "Placeholder responses"
+        ],
+        "Unreal has a full test suite (gauntlet I believe it’s called) but it’s often not practical to use it. More pressing features need written, testing occurs manually, structure changes often enough or irregularly enough that tests don’t feel like a good fit, good coding practices (like separation) early enough often make regression uncommon. Tests on anything but the largest teams are generally not going to happen or even be useful.": [
+            "6. Technical difficulty of testing in standard engines (Unity/Unreal limitations, mocking complexities)",
+            "3. Time, budget, or delivery constraints (rushed timelines leave no room for testing)",
+            "4. High cost-of-maintenance & fragility of automated tests (frequent code/UI/gameplay changes)"
+        ],
+        "The number one thing the game development testing space or game dev in general needs is better documentation for devs. Many things would be solved with this.": [
+            "11. Meta-feedback on the survey, personal backgrounds, or industry rants"
+        ],
+        "QA dude on the other side of table plays the game well, then wrong, then badly, then one handed, and so on.": [
+            "1. Preference for manual testing & human playtesting (self, friends, team, or community)"
+        ],
+        "- Testing should be as deterministic as possible and should not be delegated to a deliberately stochastic mechanism (I get that human beings aren't perfect here, but there are other factors here like maliciously compliant tests)\n- I believe prototyping is better than formal testing in that you get realized effects, especially for system components (files being written or mapped, sound coming out of your speakers, an image on the screen, etc)\n- The problem I have with formal unit tests as part of the code base, especially when further process is blocked on them, is that functions and their signatures end up becoming entrenched in the code base without rhyme or reason other than a test that uses it exists": [
+            "10. Critique of software engineering dogmas/buzzwords (SOLID, Clean Code, TDD as mindless overhead)",
+            "5. Games as a subjective/artistic medium (untestable 'feel', focus on fun, TDD doesn't fit gameplay)"
+        ],
+        "Sinto que não há tempo para se preocupar e implementar testes automatizados. Geralmente o teste se baseia em: \"Na minha máquina rodou, aqui ta a gravação da tela com OBS\". Se me preocupo em implementear testes, acabo atrasando o projeto inteiro 'T-T": [
+            "3. Time, budget, or delivery constraints (rushed timelines leave no room for testing)"
+        ],
+        "Testing doesn't solve problems, it just discovers them. In my opinion good planning and architecture pay off. Even though I'm on my own, I make a game design document and spreadsheets for certain things. I'd also say only 20% of game design is programming where automatic testing can be applied.": [
+            "5. Games as a subjective/artistic medium (untestable 'feel', focus on fun, TDD doesn't fit gameplay)"
+        ],
+        "É preciso melhorar os processos de verificação de qualidade logo no início do desenvolvimento porém só depois de 20% ou 30% do projeto realizado e funcionando os testes começam a ter importância pois o projeto já estará funcional e com informações úteis válidas. Se conseguirmos reduzir essa distância entre projeto funcionando e início dos testes, menores problemas podem ocorrer. Não evita mas pode reduzir.": [
+            "8. Curiosity, optimism, or interest in adopting automated testing (including AI agent testing)"
+        ],
+        "It is clear you've not worked in professional work environments. Too many questions ask selections for a list where none of them make sense, or bullet lists that are woefully incomplete of 'all this plus many more'. Many of the actual real-world scenarios don't show up at all in your questionnaire, like when it makes sense to create tests versus when it doesn't, or how different systems may be tested in different scenarios, why one style of tests is a better fit in one and a worse fit in another.": [
+            "11. Meta-feedback on the survey, personal backgrounds, or industry rants"
+        ],
+        "I really think this fluctuates significantly depending on the game design and time frame itself.": [
+            "5. Games as a subjective/artistic medium (untestable 'feel', focus on fun, TDD doesn't fit gameplay)"
+        ],
+        "Mostly just unit tests (I am working mostly on small indie games)": [
+            "7. Successful, active use, or practical implementation of automated testing/CI-CD pipelines",
+            "2. Scope & resource constraints (solo developers, small teams, short cycles, or game jams)"
+        ],
+        "If Mikey likes it, it must be OK. (Mikey is my brother Ken, usually.)": [
+            "1. Preference for manual testing & human playtesting (self, friends, team, or community)"
+        ],
+        "Most the games I have participated in have been strictly for vrchat, so I test for optimization usually. Seeing how many frames I get on quest and what areas have frame drops. Using this the dev team makes changes to the map. \n\nFor the 3d models, I test them as avatars in both vr and in unity to make sure the bends are correct. The hands are especially important for vr, so I make sure to test iterations of the rigging work I do on them to make sure the movements are natural and correct looking.": [
+            "1. Preference for manual testing & human playtesting (self, friends, team, or community)",
+            "11. Meta-feedback on the survey, personal backgrounds, or industry rants"
+        ],
+        "I was a designer on a large project and entered after development had already started, so I don't know when or why tools were developed. I only used some of them from my position as a designer. Many were too complicated for me to understand and others were too necessary for my workflow to ignore. Since leaving that project, I work on various other small projects, in case you find some of my answers contradictory. Also, I have an undergraduate degree but there was no option for that.": [
+            "11. Meta-feedback on the survey, personal backgrounds, or industry rants"
+        ],
+        "In gamedev, most of \"everyday\" code is *very* fuzzy or very ingrained with the rest of the game/engine which complicates making tests for.\nLike, every now and then we have code which deals with a \"missing reference\" in Unity.\nHow would we test that given that these code usually depends on (potentially deep) hierarchies of GameObjects existing?\nAlso, lets say 95% of all code potentially has this issue (basically every Monobehaviour/ScriptableObject).\nEven if we suppose it was practical to exercise all of those codepaths meaningfully, how much time it would take to run tests (constructing GameObject hierarchies takes *a lot* of time in Unity).\n\nThere's also something to be said about tests bloating the overall code mass. This then would increase the inertia which makes making changes harder.\nGame code and, in particular, gameplay code, are very dynamic in nature. Not only in the sense of reacting to other game objects but also in regards to change (due to design changes, etc) throughout the project.\n\nThat all said, what I've found works best are:\n- minimize extraordinary codepaths; that is, try to eliminate code branches which need to deal with cases which are rare to happen; \"can you refactor your code in such a way that there is no error handling at all?\";\n- assert code invariants; that is, for example, using `Debug.Assert(conditionWhichWeExpectToAlwaysBeTrueButWereNotCertain);` in strategic places to increase our confidence that our code is dealing with the data we expected it to handle;\n- letting the whole team report and quickly react to issues we find while (day-to-day) testing the game, so that when there are errors/issues, we can find them as soon as possible during development; which heavily decreases the chances of shipping errors to players;\n\nHopefully this all makes sense!\n\nPS: I've only written this in English because the rest of the form was in English as well.\nOf course we could talk about this in PT-BR!\n\nPPS: ok eu sou burro e não vi que tinha a opção de trocar o idioma acima. mas agora já escrevi tudo :')": [
+            "5. Games as a subjective/artistic medium (untestable 'feel', focus on fun, TDD doesn't fit gameplay)",
+            "6. Technical difficulty of testing in standard engines (Unity/Unreal limitations, mocking complexities)",
+            "10. Critique of software engineering dogmas/buzzwords (SOLID, Clean Code, TDD as mindless overhead)"
+        ],
+        "Os projetos da empresa que trabalho costumam ser jogos simples e com propósitos simples. Então a metodologia de testes seguidos não possuem uma complexidade grande, os testes são de funcionalidade onde é testado o jogo em si, se há algo que causa um crash ou um exploit não esperado acontece onde o jogador possa abusar para avançar no jogo, além disso há os testes de certificação, onde é testado questões de funcionalidade do jogo nos consoles, seguindo as diretrizes de cada console. E por fim, há os testes de regressão, onde são testados as correções dos bugs relatados nos testes de funcionalidade ou de certificação.": [
+            "1. Preference for manual testing & human playtesting (self, friends, team, or community)"
+        ],
+        "Basically developers don't do testing. We implement features, then move tickets to QA team and they do the testing.": [
+            "1. Preference for manual testing & human playtesting (self, friends, team, or community)"
+        ],
+        "It seams the intended target of your research is not what I'm used to work with, high level industrial ecosystems are something I avoid.": [
+            "11. Meta-feedback on the survey, personal backgrounds, or industry rants"
+        ],
+        "Para a empresa que trabalho, os jogos são testados por uma série de equipes, separadas por setor. Não posso afirmar como é o workflow deles, mas o meu, enquanto programador, é por tentativa e erro, simulo quase tudo que o jogador invente de fazer e vejo como o sistema vai reagir à ações \"aleatórias\". Muitos bugs são encontrados dessa forma, principalmente por forçar um conflito entre os eventos. No mais, os jogos que trabalho não tem como implementar uma automatização eficiente, uma vez que crianças são bem aleatórias, então tento sempre testar manualmente coisas que crianças fariam interagindo com uma tela touch.": [
+            "1. Preference for manual testing & human playtesting (self, friends, team, or community)",
+            "6. Technical difficulty of testing in standard engines (Unity/Unreal limitations, mocking complexities)"
+        ],
+        "Eu gostei bastante de responder as perguntas. Testes automatizados não era algo que era do meu conhecimento, agora me deixou mais curioso em testa-lo, eu gosto de usar teste de gameplay com pessoas.": [
+            "8. Curiosity, optimism, or interest in adopting automated testing (including AI agent testing)",
+            "11. Meta-feedback on the survey, personal backgrounds, or industry rants"
+        ],
+        "All future testing needs to be a light \"framework\" of SKILL.md files that are used by AI agents using a combination of unit tests and multimodal models running tests in addition to scripted gameplay tests. I'd pay for this. \n\ngood luck homie": [
+            "8. Curiosity, optimism, or interest in adopting automated testing (including AI agent testing)"
+        ],
+        "I want to use automated testings more in my job, but we are often stuck in small loops of having constant features to release and rework. I think automated testing makes us win time in the long term, but our requirements only allow us to think in short terms. That produces large technical debts, of course, but also it makes us skips any automatic testing.": [
+            "3. Time, budget, or delivery constraints (rushed timelines leave no room for testing)",
+            "8. Curiosity, optimism, or interest in adopting automated testing (including AI agent testing)"
+        ],
+        "Not used in a formal way, every developer avoid using testing tools.": [
+            "10. Critique of software engineering dogmas/buzzwords (SOLID, Clean Code, TDD as mindless overhead)"
+        ],
+        "Como QA Lead sênior com mais de 10 anos de experiência em qualidade de software e 6+ anos dedicados exclusivamente à indústria de videogames, participei ativamente do ciclo completo de testes em títulos live-service de alto tráfego, com destaque para a franquia Krunker (Krunker.io Seasons 7, 7.1 e 8, Krunker Strike mobile-optimized e Krunker Royale battle royale), além de projetos em estúdios como Miniclip (Plague Inc., Bowmasters) e FRVR. Minha percepção é que os testes em jogos atuais, especialmente multiplayer FPS e live-service, representam um equilíbrio complexo entre rigor técnico, velocidade de iteração, escalabilidade e foco na experiência emocional do jogador. A qualidade não é apenas ausência de bugs, mas a construção de confiança, retenção e imersão — algo que vai além de requisitos técnicos e exige visão holística.\nPráticas atuais observadas nos projetos dos quais participei:\n\nAbordagem híbrida manual + automação: Testes manuais são essenciais para áreas exploratórias, como usabilidade, balance de gameplay, integração de bots/AI e performance em cenários reais (ex: stress tests em modos battle royale com centenas de conexões simultâneas). Automação é aplicada em regressão e CI/CD (com Selenium e Jenkins), liberando tempo para testes criativos. Em Krunker Strike, por exemplo, focamos em otimização de server infrastructure escalável para mobile, garantindo estabilidade em dispositivos variados.\nPlaytesting como núcleo da qualidade: Sempre priorizei sessões internas e externas para capturar feedback qualitativo sobre diversão, dificuldade e retenção. Em Krunker Royale, identificamos problemas críticos de balance e performance combinando métricas de sessão (tempo de jogo, drop-off points) com observação direta de jogadores.\nIntegração ágil e cross-functional: Com Scrum e Kanban (certificações CSM, KMP e Flow Manager), o QA é embedded desde o planejamento de sprints. Uso intensivo de JIRA e TestRail para bug tracking, métricas (bug leakage, severity trends, test coverage) e colaboração diária com devs/designers. Isso garante resolução rápida e alinhamento com metas de projeto.\nCross-platform e localization: Testes abrangem web, mobile (iOS/Android), PC e console, com atenção a diferenças de hardware/input. Experiência em localization para o mercado brasileiro (transcreation cultural em Miniclip) reforçou a importância de testes linguísticos e culturais para acessibilidade global.\n\nDesafios e nuances identificados:\n\nVelocidade vs qualidade em live-service: Atualizações frequentes priorizam rapidez, levando a hotfixes reativos. Isso aumenta risco de bugs em produção que afetam retenção (ex: crashes em mobile por otimização insuficiente).\nEquipes distribuídas: Comunicação assíncrona em times globais pode atrasar resolução de issues críticos. Mentoring remoto exige esforço extra para manter cultura de continuous improvement.\nLimitações da automação: Cobrem funcionalidade, mas não capturam \"diversão\" ou edge cases imprevisíveis de jogadores reais — o toque humano ainda é insubstituível em gameplay/balance.\nMétricas vs intuição: KPIs (defect removal efficiency, coverage >90%) são valiosos, mas a percepção subjetiva do tester experiente detecta issues sutis que dados não revelam.\n\nSugestões e reflexões para evolução:\n\nAutomação inteligente e preditiva: Expandir frameworks para simulação de load multiplayer e integração com analytics in-game, permitindo testes baseados em dados reais de jogadores.\nPlaytesting estruturado e inclusivo: Incluir early access com comunidades diversas desde alpha, combinando quantitative data (heatmaps, session analytics) com qualitative feedback para reduzir fixes pós-launch.\nShift-left testing: Envolver QA desde design de features, com treinamento cruzado (devs entendendo QA, testers com basics de code) para aceleração.\nCultura sustentável: Evitar burnout com rotação de responsabilidades, feedback 360° e mentoria contínua — equipes mais felizes entregam qualidade superior.\nPara estúdios menores: Priorizar ferramentas leves/open-source e processos visuais (Kanban boards) para escalar QA sem burocracia.\n\nEm resumo, acredito que o futuro do QA em games está na fusão de dados/telemetria com IA para testes exploratórios, preservando o elemento humano para o que realmente importa: criar experiências imersivas e justas. Minha trajetória em multiplayer FPS me mostrou que qualidade é arte técnica e emocional. \n\nPara mais reflexões sobre QA em games, veja meu artigo no LinkedIn Pulse: https://www.linkedin.com/pulse/getting-job-series-3-frvr": [
+            "1. Preference for manual testing & human playtesting (self, friends, team, or community)",
+            "7. Successful, active use, or practical implementation of automated testing/CI-CD pipelines",
+            "11. Meta-feedback on the survey, personal backgrounds, or industry rants"
+        ],
+        "I find that it really doesn't matter what programming language you use in video game development, if a video game is good, performs well, and professionally built, you can use anything that is available to you. Even if it's some childish programing language to help kids and beginners learn about coding. Also, I REALLY hope this whole AI thing won't ruin our current generation, or even next generation of actual artists who put their hearts and souls into the hard work that they put into developing actual video games.": [
+            "9. Opinions on Generative AI (Ethical concerns, 'slop', anti-AI policies, or positive productivity tool)",
+            "11. Meta-feedback on the survey, personal backgrounds, or industry rants"
+        ],
+        "Nice survey, may it bring you some good insights :)\nStudios often save costs, to bring automated tests later when game project becomes more mature and drastic feature changes are not frequent.\nThat is why best automated tests are ones that follow core structure of how engine operates. It is best to have tests early but you always have to consider whether will test become redundant or can you reuse it if features and gameplay will change.": [
+            "4. High cost-of-maintenance & fragility of automated tests (frequent code/UI/gameplay changes)",
+            "11. Meta-feedback on the survey, personal backgrounds, or industry rants"
+        ],
+        "Testing is pretty nice when developing tools or modules. Game development itself consists in my experience largely of few general mechanisms and a large pool of special cases, which leads to tdd devolving into meaningless code duplication. (i.e. tests cannot verify output without knowledge about object internals, making the exercise pointless)\nI'd love to be proven wrong, but I haven't seen a way that actually saves me time and mental energy yet.": [
+            "5. Games as a subjective/artistic medium (untestable 'feel', focus on fun, TDD doesn't fit gameplay)",
+            "10. Critique of software engineering dogmas/buzzwords (SOLID, Clean Code, TDD as mindless overhead)"
+        ],
+        "For the projects I have a say in, I would focus on the utility testing brings to the final product. It can differ significantly based on the team, project stage and scope of the project. The key aspect I prefer to highlight is that testing should increase iteration speed of the day to day work. This is key, because it is easier to get real buy-in from the team, where TDD or testing in general is not commonly practiced. The initiatives to add more testing after the fact tends to focus on reducing regressions or increase confidence in releases (which are very important aspects) but then slows down feature development significantly by making the dev teams daily life harder. Enforcing testing in a project not designed for it is usually quite challenging, especially if it is introduced to a team that has worked without it for a long while. Just as a pragmatic approach, focusing on improving the developer experience and increasing iteration speed, has been a good way for me to introduce testing and get buy-in, which in turn increases testability of the project over time and brings the benefits with it. Just some open thoughts, hope it helps. Sorry for the lack of paragraphs. :)": [
+            "7. Successful, active use, or practical implementation of automated testing/CI-CD pipelines",
+            "8. Curiosity, optimism, or interest in adopting automated testing (including AI agent testing)"
+        ],
+        "En mi experiencia como QA de Videojuegos con múltiples años y una empresa dedicada a eso, absolutamente nada útil ha salido de implementar pruebas automáticas y especialmente IA en el contexto de un producto para ser jugado por un público, esto ha causado el hecho de que tengamos una política completamente anti IA en nuestra empresa, cosa que ha sido recibida con gusto por los estudios con los que hemos trabajado.": [
+            "1. Preference for manual testing & human playtesting (self, friends, team, or community)",
+            "9. Opinions on Generative AI (Ethical concerns, 'slop', anti-AI policies, or positive productivity tool)"
+        ],
+        "While automated testing is standard at larger companies, smaller companies like mine tend to avoid it for a myriad of reasons, chief among them being bandwidth. If the company only has a 2 engineers and 3 long running game projects, there is usually very little time for any of them to spend maintaining and updating an automated test architecture, as all of their time is spoken for maintaining and updating the projects. I do not believe this is good practice, or even wise, it is simply the way things shake out at smaller companies. For smaller companies most testing tends to be done by one or two dedicated QA employees, and possibly other team members in a piecemeal \"sanity check\" fashion.": [
+            "2. Scope & resource constraints (solo developers, small teams, short cycles, or game jams)",
+            "3. Time, budget, or delivery constraints (rushed timelines leave no room for testing)",
+            "4. High cost-of-maintenance & fragility of automated tests (frequent code/UI/gameplay changes)"
+        ],
+        "Some of these questions suggest some bias: \"the perception\" \"feeling that\" etc. \n\nWhile unit tests are great for algorithmic things, it is much more difficult to automate interaction tests, and even performance or visual quality regressions. It is a big engineering challenge to automate certain types of tests for games. Something simple such as graphics fidelity can in principle be automated, but even this is very difficult. For small teams, asutomated testing is often not worth the engineering cost (and quality control falls more to QA). I think it is especially difficult to decide where to spend resources even if certain things can be automated.": [
+            "6. Technical difficulty of testing in standard engines (Unity/Unreal limitations, mocking complexities)",
+            "2. Scope & resource constraints (solo developers, small teams, short cycles, or game jams)",
+            "11. Meta-feedback on the survey, personal backgrounds, or industry rants"
+        ],
+        "Most of the testing is component by component. Considering I’m using mainly unreal engine, I’ll create a system with clear outcome documented in the game design document, and then make a prototype. Play the prototype, and the. Find ways to break the feature. Then I document the edge case that needs to be created to fix that issue. One building block at a time.": [
+            "1. Preference for manual testing & human playtesting (self, friends, team, or community)"
+        ],
+        "This survey taught me automated testing may be important": [
+            "8. Curiosity, optimism, or interest in adopting automated testing (including AI agent testing)",
+            "11. Meta-feedback on the survey, personal backgrounds, or industry rants"
+        ],
+        "In the team we hold weekly meetings, so we just show what we've done and how it works. I have recently gained interested in gyms, zoos and museums, through a video by Robin-Yann Storm.": [
+            "11. Meta-feedback on the survey, personal backgrounds, or industry rants"
+        ],
+        "I work mostly on engine development so engine modules have unit tests, and because engines are huge complicated software we have procedures to build several distinct “flavors” of the engine for multiple platforms. \n\nThe lower the level the least we do “clean code” or “SOLID” etc. the reason is nothing gets changed unless you can prove with numbers why/how it brings benefits. And ususally a lot of these buzzwords bring at least increase of build time, unpredictability of compilation and abstractions that are far from “zero cost”. \n\nUsually nothing, even tests, are “mandatory” per se. We use whatever needs to be used when a problem requires it.": [
+            "7. Successful, active use, or practical implementation of automated testing/CI-CD pipelines",
+            "10. Critique of software engineering dogmas/buzzwords (SOLID, Clean Code, TDD as mindless overhead)"
+        ],
+        ".": [
+            "Placeholder responses"
+        ],
+        "I often participate in game jams likely skewing my input. This is particularly true for questions regarding \"most often\" game development practices. For long term projects, I rely on playtesting for many reasons. More so than any simulated user, I find a real person is able to find issues missed during development. I believe this rings especially true for games as players often have an innate desire to break the game on a larger, game-balancing level.": [
+            "1. Preference for manual testing & human playtesting (self, friends, team, or community)",
+            "2. Scope & resource constraints (solo developers, small teams, short cycles, or game jams)"
+        ],
+        "-": [
+            "Placeholder responses"
+        ],
+        "Throughout many projects, with different ages and seniority of the team the only architecture documentation I've seen were the ones I wrote. Formal practices are always lacking. \nMain reason is that all projects need to find product market fit to start to being worth the effort of implementing good software practices. And even so, deadlines don't help.": [
+            "3. Time, budget, or delivery constraints (rushed timelines leave no room for testing)",
+            "11. Meta-feedback on the survey, personal backgrounds, or industry rants"
+        ],
+        "Manual, rarely automated": [
+            "1. Preference for manual testing & human playtesting (self, friends, team, or community)"
+        ],
+        "The biggest challenge I've seen in automated testing for games is keeping test synchronized with the UI / game flow. Time-sensitive operations and dynamic, conditional UI flow are things that constantly break during development. Anytime someone nudge the location of a button, or introduces a new pop-up, or login takes longer due to more game data needing to be delivered by the server, or there's network latency it breaks integration tests, or produces a false failure.\n\nUnit testing is much more stable and less prone to false failures, but also offers a lot less value.": [
+            "4. High cost-of-maintenance & fragility of automated tests (frequent code/UI/gameplay changes)",
+            "6. Technical difficulty of testing in standard engines (Unity/Unreal limitations, mocking complexities)"
+        ],
+        "Sendo QA em um projeto grande (Mmorpg) ainda há pouca coisa testes para jogos, entao o grande desafio é aprender e melhorar processos durante o desenvolvimento.": [
+            "11. Meta-feedback on the survey, personal backgrounds, or industry rants"
+        ],
+        "I am the primary and sole implementor of the testing/build pipeline at the company I work for. I've advocated for automated testing for a while now, and have finally been given the chance to implement it into our workflows.\nAs it stands now, whenever a commit is pushed, our code is built as a standalone dll (outside of the engine), and is run through \"fast testing,\" which then publishes the commit status (pending/success/failed) in our VCS. When PRs to the development/release branch are created, integration testing is added on top (in-engine testing), and commits to the development/release branch automatically build and upload the game to a known download location. Notifications are also sent to the team communication channels to inform them of failed integration tests, successful builds, etc. Given approval, I'd love to talk more about the details and how/why I set I up.": [
+            "7. Successful, active use, or practical implementation of automated testing/CI-CD pipelines"
+        ],
+        "I think agent based test would be the most helpful in game dev - however each game is so different that it would mostly need a unique implementation for each game. That takes a lot amount of effort to set up.\nSo I think what would be most helpful would be someway to create these tests faster.\nI am considering how in MS Office suite - there is the macro recorder. Then it generates a VBA script that will redo all the actions just preformed. I think something akin to that implied at the engine level could potentially making this faster.": [
+            "8. Curiosity, optimism, or interest in adopting automated testing (including AI agent testing)"
+        ],
+        "Testing is difficult because often when prototyping a game you want to move quickly in a game jam type way where you just get it to a playable state asap. I then find that you want to throw that prototype away if you Like the idea and design the game to be maintainable and time spent on this process often yields more results than time spent on testing. Because if you have logical guarantees on how the game's state must be then you end up avoiding many of the bugs that would be caught with automated testing. Additionally you still require human play testers for all the design work in the game, this includes challenge level, play patterns and narrative progression, making sure each level is fun, finding points of frustration and more.": [
+            "1. Preference for manual testing & human playtesting (self, friends, team, or community)",
+            "2. Scope & resource constraints (solo developers, small teams, short cycles, or game jams)",
+            "5. Games as a subjective/artistic medium (untestable 'feel', focus on fun, TDD doesn't fit gameplay)"
+        ],
+        "testing is much more valuable the bigger the project": [
+            "2. Scope & resource constraints (solo developers, small teams, short cycles, or game jams)"
+        ],
+        "I am a solo developer, and I have found that using AI tools allows me to create the games I imagine much faster and with better quality.": [
+            "2. Scope & resource constraints (solo developers, small teams, short cycles, or game jams)",
+            "8. Curiosity, optimism, or interest in adopting automated testing (including AI agent testing)"
+        ],
+        "Na questão 14, senti falta de uma opção \"não uso por falta de recursos\".": [
+            "11. Meta-feedback on the survey, personal backgrounds, or industry rants",
+            "2. Scope & resource constraints (solo developers, small teams, short cycles, or game jams)"
+        ],
+        "I’m a test automation engineer by trade and solo develop games. I have not used automated tests in games since it feels less important than getting the game itself done": [
+            "2. Scope & resource constraints (solo developers, small teams, short cycles, or game jams)",
+            "3. Time, budget, or delivery constraints (rushed timelines leave no room for testing)"
+        ],
+        "Unit testing easy and obvious. Testing gameplay is nefarious and extremely difficult. The gap between the two is enormous.": [
+            "5. Games as a subjective/artistic medium (untestable 'feel', focus on fun, TDD doesn't fit gameplay)",
+            "6. Technical difficulty of testing in standard engines (Unity/Unreal limitations, mocking complexities)"
+        ],
+        "It’s clear that the author of this survey has no actual experience in professional game development. I would be very careful with the conclusions you draw from this data. I suggest you do some more informal interviews to find out what we actually do before seeking this sort of data. \n\nGame development does not typically use Test Driven Development. Most features in games are difficult to describe in a testable way. Many are subjective. Many are stateful. \n\nWe tend to use compiled languages, have strict code review practices, and a culture of perfection. We’re a very, very different group than typical SWEs. \n\nQuestion 23 is nonsensical. We make art. The process for reviewing it is completely subjective. It’s very similar to how the artistic decisions are made in film or other media.": [
+            "5. Games as a subjective/artistic medium (untestable 'feel', focus on fun, TDD doesn't fit gameplay)",
+            "10. Critique of software engineering dogmas/buzzwords (SOLID, Clean Code, TDD as mindless overhead)",
+            "11. Meta-feedback on the survey, personal backgrounds, or industry rants"
+        ],
+        "I was a programmer from 1998 - 2003. Switched fields. Generative AI is a game changer that lets me complete an entire team’s work in weeks instead of months.": [
+            "8. Curiosity, optimism, or interest in adopting automated testing (including AI agent testing)",
+            "11. Meta-feedback on the survey, personal backgrounds, or industry rants"
+        ],
+        "Generally speaking testing is different per game. This will be our last determistic project. The upside of having determistic games is that testing becomes really easy for your simulation logic. For future projects we'll need a different way of testing because we lose this functionality of guaranteed determinism. Any form of automated testing that can also be verified quickly that it's good is great. If you need to manually verify all the automated tests you're generally faster doing it yourself. The same applies for generated code, you want guaranteed quality and something you can rely on.": [
+            "4. High cost-of-maintenance & fragility of automated tests (frequent code/UI/gameplay changes)",
+            "8. Curiosity, optimism, or interest in adopting automated testing (including AI agent testing)"
+        ],
+        "I suspect that automated testing is used at larger studios than I've primarily worked on and will likely get used more over time. Primarily, the studios I've been at have used automated testing nightly to ensure that the project builds and that it doesn't crash on the major menu swapping. While it'll be nice to have agents that can play the games, we're erasing the QA job for a subpar solution... which also removes the entire line of training that builds junior designers.\n\nI don't think I've met a studio head that's smart enough to deal with the downsides before going all-in. So, automation is likely to occur fast and then we'll just have an unstable product for 10 years. The addicts will keep buying whatever slop is served and eventually the AI will be better.": [
+            "9. Opinions on Generative AI (Ethical concerns, 'slop', anti-AI policies, or positive productivity tool)",
+            "11. Meta-feedback on the survey, personal backgrounds, or industry rants"
+        ],
+        "Eu sou um homem de pouca palavras.": [
+            "11. Meta-feedback on the survey, personal backgrounds, or industry rants"
+        ],
+        "Testing is unfortunately treated like all other bullshit \"frameworks\" like SOLID and Clean Code, which turns it into a cult of mindless work that serves the sole purpose of driving pointless discussions. If an actual testing framework and toolset were developed with actual intent to solve actual problems in game dev, that could be very interesting. Right now, my experience is of TDD being just pedantic waste of time.": [
+            "10. Critique of software engineering dogmas/buzzwords (SOLID, Clean Code, TDD as mindless overhead)"
+        ],
+        "Desenvolver jogos foi algo que me fez apaixonar por trabalhar, depois de vários anos trabalhando com outras profissões, é algo que gosto de fazer de verdade, programação é a minha paixão e ver as minhas ideias funcionando e pessoas jogando meus jogos é algo muito satisfatório.\n\nNa maioria dos meus testes, como basicamente no estúdio tem 3 pessoas, que moram em estados diferentes, basicamente enviamos uma build abrimos uma chamada e pedimos para outros membros jogarem, ficamos analisando o gameplay na intenção de colher feedbacks, também fazemos isso com pessoas fora do desenvolvimento de jogos, todos os bugs que são encontrados, são colocados em checklists e são corrigidos durante o desenvolvimento antes de fazer uma build de lançamento. Deixando o product o melhor possível, mesmo após lançado, ficamos atentos sobre bugs que jogadores podem encontrar e após identificar, fazemos as correções necessárias e deixamos relatórios de correções de erros junto com as atualizações.": [
+            "1. Preference for manual testing & human playtesting (self, friends, team, or community)",
+            "2. Scope & resource constraints (solo developers, small teams, short cycles, or game jams)"
+        ],
+        "Bem, a Púrpura VozIndie como empresa terceirizada pra produção de assets de som nós nunca implementamos diretamente no projeto pra ter essa experiência. Mas sendo uma empresa com a proposta de conhecer mais da realidade indie do desenvolvedor é interessante saber dessa pesquisa pra ficar mais por dentro. \nAtualmente a maior dificuldade generalizada dos nossos clientes é conseguir se manter até finalizar o projeto e também o pós lançamento por inúmeros motivos e conseguir alcance nos projetos. Coisa que nós estamos buscando formas de atender com publicidade.": [
+            "11. Meta-feedback on the survey, personal backgrounds, or industry rants"
+        ],
+        "Acredito que as perguntas são bem pertinentes ao tema e todos os artefatos abordados são coerentes a indústria. Acredito que uma adição opcional seria comentar sobre perforce, Hansoft e outras ferramentas da área de jogos AA e AAA": [
+            "11. Meta-feedback on the survey, personal backgrounds, or industry rants"
+        ],
+        "I am old. I fo this for fun. It is too much work to monetize even the 1% of the things I release, because if I were to charge for my games, I would have to pay taxes on the income.": [
+            "11. Meta-feedback on the survey, personal backgrounds, or industry rants"
+        ],
+        "Na teoria os testes automatizados são excelentes, eu já comecei vários projetos por eles. Mas, o mercado exige velocidade de desenvolvimento, que é o maior problema dos testes, atrasam demais a entrega do projeto. Então acho que só vale a pena se o software envolver informações sensíveis como finanças, e/ou se for um projeto grande, que já vai levar muito tempo mesmo. No caso dos jogos a situação piora, porque é muito comum você estar desenvolvendo uma ideia, e de repente mudar o rumo por completo. Isso inviabiliza demais os testes automatizados, porque você teria que ficar sempre reescrevendo, e no fim das contas vai precisar colocar na mão de jogadores reais para testar não só o funcionamento do software, mas outros aspectos como visual, áudio, dificuldade, diversão, etc.": [
+            "3. Time, budget, or delivery constraints (rushed timelines leave no room for testing)",
+            "4. High cost-of-maintenance & fragility of automated tests (frequent code/UI/gameplay changes)",
+            "5. Games as a subjective/artistic medium (untestable 'feel', focus on fun, TDD doesn't fit gameplay)"
+        ],
+        "Irei passar nosso fluxo e objetivo inteiro pois e bem simples e direto. primeiro entramos em consenso sobre que tipo de jogo queremos considerando a falta de tempo para fazer e pouca experiencia o critério mínimo e ser um jogo rápido de ser feito com algo relevante o suficiente para chamar atenção, seja mecânica ou design etc.. na questão dos testes geralmente testamos nos mesmos e convidamos outras pessoas para testar fazemos lives para divulgar os testes e pegar reações diretas do pessoal, sempre foi feito dessa forma.": [
+            "1. Preference for manual testing & human playtesting (self, friends, team, or community)",
+            "2. Scope & resource constraints (solo developers, small teams, short cycles, or game jams)"
+        ],
+        "I do think testing is very important within games. I indicated in this survey that I personally don’t do automated testing, that is simply because I am unaware of how/what it is. I am very new to game development so I am eager to learn about it. However, as also indicated, I am not eager to learn about AI, I am entirely against it as a practice.": [
+            "8. Curiosity, optimism, or interest in adopting automated testing (including AI agent testing)",
+            "9. Opinions on Generative AI (Ethical concerns, 'slop', anti-AI policies, or positive productivity tool)"
+        ],
+        "theres always a feedback cycle, so we've done our best to ensure that we encorporate feedback/testing as part of our designs. With a good producer/pm that normally means someone took the acceptance criteria and turned it into the QA criteria. when we don't have a particular QA person, we swap within the team so its always someone who wasn't involved in the decision making process. using tools has been a big part of this.": [
+            "1. Preference for manual testing & human playtesting (self, friends, team, or community)"
+        ],
+        "Meu método de implementar testes automizados é criando rotinas simples para testar a estabilidade de determinadas permutações de estado de jogo; isso funcionou sim em alguns projetos, porém, já lancei pelo menos dois jogos com erros críticos que tais rotinas não localizaram; porém elas deram uma confiança falsa da estabilidade do jogo.": [
+            "7. Successful, active use, or practical implementation of automated testing/CI-CD pipelines",
+            "4. High cost-of-maintenance & fragility of automated tests (frequent code/UI/gameplay changes)"
+        ],
+        "Right now all testing are manual. As indie dev, we lack testing education and hence deal with more bugs.": [
+            "1. Preference for manual testing & human playtesting (self, friends, team, or community)",
+            "2. Scope & resource constraints (solo developers, small teams, short cycles, or game jams)"
+        ],
+        "O principal ponto é o time abraçar a demanda, caso contrário, a falta de manutenção ou demora na implementação vai retirar todos os ganhos da automação.": [
+            "4. High cost-of-maintenance & fragility of automated tests (frequent code/UI/gameplay changes)"
+        ],
+        "Unit testing is easy and obvious. Testing gameplay is nefarious and extremely difficult. The gap between the two is enormous.": [
+            "5. Games as a subjective/artistic medium (untestable 'feel', focus on fun, TDD doesn't fit gameplay)"
+        ],
+        "Desenvolver jogos foi algo que me fez apaixonar por trabalhar, depois de vários anos trabalhando com outras profissões, é algo que gosto de fazer de verdade, programação é a minha paixão e ver as minhas ideias funcionando e pessoas jogando meus jogos é algo muito satisfatório.\n\nNa maioria dos meus testes, como basicamente no estúdio tem 3 pessoas, que moram em estados diferentes, basicamente enviamos uma build abrimos uma chamada e pedimos para outros membros jogarem, ficamos analisando o gameplay na intenção de colher feedbacks, também fazemos isso com pessoas fora do desenvolvimento de jogos, todos os bugs que são encontrados, são colocados em checklists e são corrigidos durante o desenvolvimento antes de fazer uma build de lançamento. Deixando o produto o melhor possível, mesmo após lançado, ficamos atentos sobre bugs que jogadores podem encontrar e após identificar, fazemos as correções necessárias e deixamos relatórios de correções de erros junto com as atualizações.": [
+            "1. Preference for manual testing & human playtesting (self, friends, team, or community)"
+        ]
+    },
+    "funcoes_outro": {
+        "art director": [
+            "Visual Artist",
+            "Animator",
+            "Producer"
+        ],
+        "Management/executive": [
+            "Producer"
+        ],
+        "coordenador": [
+            "Producer"
+        ],
+        "Ue5 game dev": [
+            "Game Designer",
+            "Level Designer",
+            "Programmer"
+        ],
+        "Infrastructure design, network architecture, system engineering, test engineering": [
+            "Tester (QA)",
+            "Programmer",
+            "Tech Lead"
+        ],
+        "Programmer, team lead, pod lead, feature lead.": [
+            "Tech Lead",
+            "Programmer"
+        ],
+        "Project Management and Research": [
+            "Producer"
+        ],
+        "Weightpainter for 3D models": [
+            "Visual Artist"
+        ],
+        "Technical Artist": [
+            "Visual Artist",
+            "Animator",
+            "Programmer"
+        ],
+        "Supervisor, Professor": [
+            "Producer",
+            "Programmer"
+        ],
+        "Director": [
+            "Producer"
+        ],
+        "You are missing DevOps department roles :] game build engineer, devops engineer, qa engineer": [
+            "Tester (QA)",
+            "Programmer",
+            "Tech Lead"
+        ],
+        "Everything": [
+            "Programmer",
+            "Visual Artist",
+            "UI/UX Designer",
+            "Scriptwriting/Narrative",
+            "Tech Lead",
+            "Marketing/Publishing",
+            "Game Designer",
+            "Level Designer",
+            "Tester (QA)",
+            "Sound Artist / Composer",
+            "Animator",
+            "Producer"
+        ],
+        "Graphics/Engine": [
+            "Visual Artist",
+            "Animator",
+            "Programmer"
+        ],
+        "System Administrator": [
+            "Programmer",
+            "Tech Lead"
+        ],
+        "Sound design, music production, DevOps/SRE": [
+            "Programmer",
+            "Tech Lead",
+            "Sound Artist / Composer"
+        ],
+        "Direção": "Producer",
+        "CTO/Diretor de Tecnologia": "Tech Lead",
+        "Contratos e pagamentos": "Producer",
+        "Diretor": "Producer",
+        "Product Owner, Game Director, CEO": [
+            "Producer",
+            "Game Designer"
+        ]
+    },
+    "situacao_equipe_outro": {
+        "coordeno vários projetos no Medialab, mas em media cada projeto é composto por 3 a 5 pessoas": "In a Small Team (2 to 15 people)",
+        "Open source community projects, with numerous contributors, no real structure outside of maintainers": "I work independently and do not have direct contact with the project team",
+        "There are \"strike teams\", \"feature teams\", there are cross-discipline teams based on systems like UI teams, infrastructure teams, core tech teams. Most developers are members 3 or 4 teams, senior developers often participate in 6+ teams. Functionally there is one group at any time working together on common sets of functionality, often 6-15 people.": "In a Medium Team (15 to 60 people)",
+        "é apenas eu e um amigo, trabalhando juntos.": "In a Small Team (2 to 15 people)"
+    },
+    "dificuldades_manutencao_outro": {
+        "It’s rarely financially viable. And the AppStores make libraries outdated constantly.": [
+            "Technology, engine, framework, and tool limitations"
+        ],
+        "In the independent game dev field, there's a general lack of understanding about good engineering practices, because a lot of people are self taught. If you pulled a random indie dev out of a lineup at GDC, I doubt they'd even know what unit testing is.": [
+            "Absence of good software engineering practices",
+            "Communication difficulties among team members"
+        ],
+        "Team misalignment": [
+            "Communication difficulties among team members"
+        ],
+        "Not knowing how to integrate various SDKs required by various stores or systems.": [
+            "Technology, engine, framework, and tool limitations"
+        ],
+        "Unity's closed source nature and lack of inherent scalability means engine features may need replacing when production ramps up. This is why I currently have a research project going for a custom engine.": [
+            "Technology, engine, framework, and tool limitations"
+        ],
+        "Junior devs lacking in technical background requiring extensive supervision and cannot be trusted to make any architectural decisions that may impact future code maintainability. Combine this with the very large difference in productivity between junior and senior devs, on the short term it is hard to justify taking the time to coach juniors into writing maintainable code when a senior doing it themselves for a fraction of the time and effort. However, this of course affects career growth of juniors on the long term (let's not even talk about what happens when AIs are more technically competant than junior devs, and a senior instructing an AI to do the task requires about the same or less than instructing a junior to do the same task, and vastly faster.. this does not bode well to be a junior in the industry). All of this is made worse that the amount typical amount of time for growth for juniors is probably longer than the average tenure of junior devs within a company (a couple years). it is hard to justify the time investment in coaching juniors who don't already have a stellar attitude towards personal growth": [
+            "Absence of good software engineering practices",
+            "Lack of time or tight deadlines",
+            "Communication difficulties among team members"
+        ],
+        "Working with partners / contractees that have poorly defined goals,": [
+            "Communication difficulties among team members",
+            "Changes in scope or features in the middle of the project"
+        ],
+        "Stamina or over testing my own game causing the game to become too easy for me. Sometimes I like to implement new things just for a change in game development but won't continue on if it doesn't align with one of my core pillars.": [
+            "Maintaining focus and motivation"
+        ],
+        "Working alone, the list of things to fix and expand and improve is overwelming.": [
+            "Lack of time or tight deadlines",
+            "Maintaining focus and motivation"
+        ],
+        "Frameworks and modern languages change over time": [
+            "Technology evolution and dependency updates"
+        ],
+        "Legacy code being kept around in the project (Like old AB tests, fallback payment systems, etc)": [
+            "Code becomes difficult to understand over time"
+        ],
+        "Rester concentré": [
+            "Maintaining focus and motivation"
+        ],
+        "Prototyping and play testing has a big impact, especially in technically challenging games with complex architecture such as determinism and lack of time for 80~90%+ code coverage.": [
+            "I do not face significant difficulties in this aspect"
+        ],
+        "Engines are bloated, messy and terribly bad software, but the work to make them is not worth the time.": [
+            "Lack of time or tight deadlines",
+            "Technology, engine, framework, and tool limitations"
+        ]
+    },
+    "requisito_testes_outro": {
+        "Server logic, business ($) logic, API Ayers, core framework code": "To start the development of a new feature",
+        "None are universal. Some systems require testing plans prior to writing code, some require tests as part of development, some do not require any automated tests. Code submission hooks require the standard suites of tests to run before submission is allowed, and CI systems run more comprehensive tests on every build as development proceeds. All developers are expected to have run their code in game or viewed the assets in game prior to submission, a form of testing.": "To accept contributions from collaborators (e.g., pull requests)",
+        "to pass release quality gates": "To allow the project to advance to the next phase (alpha, beta)",
+        "Je sais pas": "They are not a mandatory requirement in projects",
+        "I do not use": "They are not a mandatory requirement in projects"
+    },
+    "testes_jogo_outro": {
+        "stress test e performance test": [
+            "Performance Tests"
+        ],
+
+        "Conduct playtests": [
+             "Exploratory testing — I play freely and observe if there are glitches or strange behaviors"
+        ],
+
+        "Peço para pessoas conhecidas testarem meu projeto.": [
+             "Exploratory testing — I play freely and observe if there are glitches or strange behaviors"
+        ],
+
+        "QA, analytics/health dashboard, frame rate, memory footprint": [
+            "Performance Tests",
+            "Scripted testing — I follow a list of steps or a checklist to verify specific features"
+        ],
+
+        "fazemos analise no profiler": [
+            "Performance Tests"
+        ],
+
+        "Send it to QA": [
+
+        ],
+
+        "Dedicated feature testing and code reviews before branch merging": [
+            "Scripted testing — I follow a list of steps or a checklist to verify specific features"
+        ],
+
+        "I have my game played by others and have them answer a questionaire (in the ideal case)": [
+            "Exploratory testing — I play freely and observe if there are glitches or strange behaviors"
+        ],
+
+        "All of those, plus unit testing, integration testing, QA manual testing, A/B user testing, A/B deployment testing and canary machines, and so many more.": [
+            "Exploratory testing — I play freely and observe if there are glitches or strange behaviors",
+            "Scripted testing — I follow a list of steps or a checklist to verify specific features",
+            "Performance Tests",
+            "Automated testing — I use tools or scripts to test parts of the game without manual intervention"
+        ],
+
+        "Play testing with people who have never played the game before. This works best when you give them 0 outside guidance so you can see how an actual player would respond the the game's inherent cues.": [
+            "Exploratory testing — I play freely and observe if there are glitches or strange behaviors"
+        ],
+
+        "stepping through code within the debugger; analyzing profiler captures of the game": [
+            "Performance Tests"
+        ],
+
+        "I ask other people for play test and feedback": [
+            "Exploratory testing — I play freely and observe if there are glitches or strange behaviors"
+        ],
+
+        "Metodologias propias": [
+            "Exploratory testing — I play freely and observe if there are glitches or strange behaviors"
+        ],
+
+        "Manual edge case handling with lots of print strings to verify no possible memory leaks.": [
+            "Performance Tests",
+            "Scripted testing — I follow a list of steps or a checklist to verify specific features"
+        ],
+
+        "Live Playtester recording": [
+             "Exploratory testing — I play freely and observe if there are glitches or strange behaviors"
+        ],
+
+        "When available, I incorporate regular playtesting roughly once a week.": [
+            "Exploratory testing — I play freely and observe if there are glitches or strange behaviors"
+        ],
+
+        "White box testing": [
+            "Exploratory testing — I play freely and observe if there are glitches or strange behaviors"
+        ],
+
+        "The QA dept": [
+
+        ],
+
+        "Our games are deterministic, therefore we have unit tets plus integration tests with save files of games where we quickly load the save files to check if the hash is still equal. This is our form of automated tests but it's very niche and not a good representation for most games being developed.": [
+            "Automated testing — I use tools or scripts to test parts of the game without manual intervention"
+        ],
+
+        "Não atuo diretamente na implementação do áudio no jogo ainda": [],
+
+        "Demos e protótipos para outras pessoas testarem": [
+            "Exploratory testing — I play freely and observe if there are glitches or strange behaviors"
+        ],
+
+        "Procuro pessoas reais para testar no caso de builds e protótipos.": [
+            "Exploratory testing — I play freely and observe if there are glitches or strange behaviors"
+        ]
+    }
+}
