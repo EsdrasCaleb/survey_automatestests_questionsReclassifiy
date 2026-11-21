@@ -21,7 +21,7 @@
       "atuacao_indie_fulltime": "I work full-time at a game industry independently",
       "ja_atuou_na_industria":"I worked full-time at a game industry company",
       "atuacao_industria_educativa":"I develop games as part of academic or educational activities",
-      "just_media":"I do not develop games, only follow industry news and consumption trends",
+      "atuacao_industria_adjacente":"I do not develop games, only follow industry news and consumption trends",
       "atuacao_industria_adjacente" :"I work full-time at a adjacent game industry company"
     },
     "situacao_equipe_outro": {
